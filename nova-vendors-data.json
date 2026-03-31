@@ -1,0 +1,3047 @@
+[
+  {
+    "id": 1,
+    "name": "Greensleeves Florist",
+    "category": "Floral Design",
+    "location": "Fairfax, VA",
+    "image": "https://images.unsplash.com/photo-1487530811015-780780169ba3?w=900&q=80",
+    "contact": {
+      "phone": "(703) 691-1096",
+      "email": "Via website contact form",
+      "website": "https://www.greensleevesflorist.com",
+      "instagram": "@greensleevesflorist",
+      "address": "11725 Lee Hwy Suite A7, Fairfax, VA 22030"
+    },
+    "hours": "Mon–Fri 9am–5pm · Sat 9am–4pm · Sun Closed",
+    "established": "In business since the early 1980s — 40+ years serving Northe",
+    "services": [
+      "Bridal & bridesmaid bouquets",
+      "Ceremony arch & altar arrangements",
+      "Reception centerpieces (all styles)",
+      "Boutonnieres & corsages",
+      "Flower walls & photo backdrops"
+    ],
+    "specialties": [
+      "Custom bespoke designs across all styles — romantic, modern, rustic, tropical, glamorous",
+      "40+ years of Northern Virginia wedding experience",
+      "Budget-flexible designs — known for working within client budgets",
+      "Full event décor beyond florals (candles, linens, rentals)"
+    ],
+    "pricing": {
+      "minimum": "Custom quotes — no published minimum; known for flexibility across budgets",
+      "average": "Mid-range; pricing described as 'fair' and 'reasonably priced' across reviews",
+      "deposit": "Confirm at consultation",
+      "note": "Free consultation to discuss vision and budget. Pricing varies by style, flower selection, and scale"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "Classic",
+      "Custom Styles"
+    ],
+    "culturalNotes": "Full-service florist with broad design capabilities. For highly specific multicultural installations (marigold garlands, sofreh arrangements, haldi se",
+    "responseTime": "Quick response noted in reviews; same-day delivery available before noon",
+    "bookingLead": "Can accommodate last-minute; earlier better for large events",
+    "travelFee": "Local delivery throughout Northern Virginia (Fairfax, Burke, Centreville, Chanti",
+    "teamSize": "20+ team members",
+    "consult": "In-store or phone consultation; walk-ins welcome",
+    "plannerRating": 4.3,
+    "plannerNotes": "Greensleeves has been a NoVA institution since the early 1980s and is particularly strong for clients who need budget flexibility — they'll work with you, not just hand you a price sheet. They've handled weddings at Belmont Country Club and venues ac",
+    "plannerTags": [
+      "40+ Years Experience",
+      "Budget Flexible",
+      "Last-Minute Friendly",
+      "Local Institution"
+    ],
+    "availability": "Contact for current date availability",
+    "blogTag": "greensleeves-florist",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "organic",
+        "modern"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 2,
+    "name": "Danielle Towle Photography",
+    "category": "Photography",
+    "location": "Leesburg, VA",
+    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=900&q=80",
+    "contact": {
+      "phone": "Contact via website inquiry form",
+      "email": "Via danielletowlephotography.com",
+      "website": "https://danielletowlephotography.com",
+      "instagram": "@danielletowlephotography",
+      "address": "Based in Leesburg, VA — serving NoVA, DC, and destination"
+    },
+    "hours": "By appointment",
+    "established": "8+ years experience · 150+ weddings photographed",
+    "services": [
+      "Full wedding day coverage (packages from ~6 hrs to 10+ hrs)",
+      "Engagement sessions",
+      "Bridal portrait sessions",
+      "Multi-day & multicultural wedding coverage",
+      "Online gallery delivery (sneak peek within days)"
+    ],
+    "specialties": [
+      "Romantic, warm, and timeless documentary-style photography",
+      "Multicultural & multi-day events (Hindu/American weddings specifically noted)",
+      "Making camera-shy couples feel completely comfortable",
+      "Custom packages — not rigid tiers"
+    ],
+    "pricing": {
+      "minimum": "Custom quoted — contact for current 2026 rates",
+      "average": "Mid-range for Northern Virginia market",
+      "deposit": "Required to hold date",
+      "note": "Custom packages for your specific timeline. 10-hour package specifically recommended for multicultur"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "South Asian",
+      "Hindu/American",
+      "Multicultural",
+      "Western"
+    ],
+    "culturalNotes": "Has photographed Hindu/American multi-day weddings; proactively schedules Zoom calls to understand traditions and timeline. Client reviews specificall",
+    "responseTime": "Proactively reaches out quickly after inquiry (Zoom call offered immediately)",
+    "bookingLead": "Limited 2026 dates; 2027 open — book early for peak Saturdays",
+    "travelFee": "Based in Leesburg; travels throughout NoVA, DC metro, and destinations",
+    "teamSize": "Solo photographer (second shooter can be discussed for large",
+    "consult": "Free Zoom/video consultation before booking",
+    "plannerRating": 4.9,
+    "plannerNotes": "Danielle has one of the strongest client loyalty reputations of any Northern Virginia photographer. Her clients repeatedly praise the same things: she made them feel completely at ease in front of the camera, she showed up prepared and calm, and the ",
+    "plannerTags": [
+      "Featured in Washingtonian",
+      "Fast Turnaround",
+      "Multicultural Experience",
+      "Custom Packages",
+      "Book Early"
+    ],
+    "availability": "Now Booking 2026 & 2027 — inquire now",
+    "blogTag": "danielle-towle-photography",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "organic",
+        "modern"
+      ],
+      "cultural": [
+        "south_asian"
+      ],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "photos",
+        "cultural"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 3,
+    "name": "Megan France Designs",
+    "category": "Live Event Illustration",
+    "location": "Serving DMV · Northeast WV · Southern PA",
+    "image": "",
+    "contact": {
+      "phone": "+1 717-357-0394",
+      "email": "meganfrancedesigns@gmail.com",
+      "website": "https://www.meganfrancedesigns.com",
+      "instagram": "@meganfrancedesigns",
+      "address": "Serving DMV, Northeast WV, Southern PA, and beyond — based outside major city centers"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded May 2024",
+    "services": [
+      "Live Guest Portraits at weddings, parties, and events — quick portraits painted/",
+      "Commissioned Watercolor Portraits — two styles (Illustrated and Detailed) in mul",
+      "Portrait Place Cards — small guest portraits paired with names; serves as both s"
+    ],
+    "specialties": [
+      "Live event illustration with a focus on faces — more detailed and personal than typical caricature o",
+      "Bubbly, warm personality transforms the portrait station into a crowd-gathering event highlight",
+      "Each portrait is a genuine keepsake — guests see themselves through an artist's eyes in real time",
+      "Accessible pricing compared to city-based event artists — same quality, friendlier rates"
+    ],
+    "pricing": {
+      "minimum": "Live Guest Portraits from $1,400 (4 hours)",
+      "average": "$1,400–$2,800 for live event coverage; $50–$450 for commissioned portraits",
+      "deposit": "Contact to discuss",
+      "note": "Live Guest Portraits: $1,400 / 4 hrs (32–40 guests) · $2,100 / 6 hrs (48–60 guests) · $2,800 / 8 hrs"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "Custom Styles",
+      "All Celebrations"
+    ],
+    "culturalNotes": "Live portraiture is a universally joyful experience that translates beautifully across cultural celebrations — the act of being 'seen' and captured in",
+    "responseTime": "Contact via website or email",
+    "bookingLead": "New business — contact early to check availability for your date",
+    "travelFee": "Serves DMV, Northeast WV, Southern PA, and beyond — travel fees may apply outsid",
+    "teamSize": "Solo artist — Megan France",
+    "consult": "Contact via website or email to discuss your event vision and package options",
+    "plannerRating": 5,
+    "plannerNotes": "Megan France Designs is a genuinely differentiated offering in the NoVA wedding market — live guest illustration is a cocktail-hour and reception upgrade that guests consistently describe as a highlight of the evening. What sets Megan apart is her fo",
+    "plannerTags": [
+      "Live Event Illustration",
+      "Portrait Place Cards",
+      "Cocktail Hour Highlight",
+      "Accessible Pricing",
+      "Commissioned Portraits"
+    ],
+    "availability": "Now Booking 2026 — contact meganfrancedesigns@gmail.com",
+    "blogTag": "megan-france-designs",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "modern",
+        "organic",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "portfolio": [
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
+      "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "The Floral Godmother",
+    "category": "Floral Design",
+    "location": "Northern Virginia · Washington DC · and Beyond",
+    "image": "",
+    "contact": {
+      "phone": "+1 (571) 239-8799",
+      "email": "thefloralgodmother@gmail.com",
+      "website": "https://www.floralgodmother.com",
+      "instagram": "@floralgodmother",
+      "address": "Serving Northern Virginia, Washington DC, and surrounding areas"
+    },
+    "hours": "By appointment — contact via phone or email",
+    "established": "Founded June 2014 — 11+ years of wedding floral artistry",
+    "services": [
+      "Bridal & bridesmaid bouquets",
+      "Ceremony arch & altar arrangements",
+      "Reception centerpieces (all styles)",
+      "Boutonnieres & corsages",
+      "Flower walls & photo backdrops"
+    ],
+    "specialties": [
+      "Color palette perfectionism — known for flawless, intentional palette execution",
+      "Full-service design from mood board to venue walk-through",
+      "Complimentary photographer florals included in packages — a true differentiator",
+      "Intimate boutique experience — working closely with each couple"
+    ],
+    "pricing": {
+      "minimum": "Packages start at $3,500",
+      "average": "Custom-priced based on vision, florals, and scale; contact for a personalized quote",
+      "deposit": "$500 booking fee applied to final invoice",
+      "note": "The $500 booking fee is credited toward your total — it's not an extra cost. Personalized pricing me"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "Classic",
+      "Custom Styles",
+      "Diverse Clientele"
+    ],
+    "culturalNotes": "As an Army wife who has lived in 20 homes and worked with clients across many backgrounds, The Floral Godmother brings a naturally inclusive and adapt",
+    "responseTime": "Contact via phone or email; responsive and relationship-focused",
+    "bookingLead": "Book early for peak Saturdays; personalized timelines discussed during consultat",
+    "travelFee": "Services Northern Virginia, Washington DC, and beyond — travel flexibility avail",
+    "teamSize": "Boutique studio — highly personal, owner-led experience",
+    "consult": "Consultation includes mood boards and venue walk-through service",
+    "plannerRating": 4.8,
+    "plannerNotes": "The Floral Godmother is exactly the kind of vendor that makes a planner's job easier — she comes to the table with a mood board, walks the venue, and even provides complimentary florals for the photographer. That's not standard. It's the difference b",
+    "plannerTags": [
+      "Color Palette Expert",
+      "Venue Walk-Through Included",
+      "Photographer Florals Included",
+      "11+ Years Experience",
+      "Boutique & Personal"
+    ],
+    "availability": "Contact for current date availability",
+    "blogTag": "the-floral-godmother",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "organic",
+        "boho",
+        "modern"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 5,
+    "name": "Timeless Photo + Video",
+    "category": "Photography & Videography",
+    "location": "DC · Maryland · Virginia · Pennsylvania",
+    "image": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=900&q=80",
+    "contact": {
+      "phone": "+1 (571) 200-1824",
+      "email": "booking@timelesspv.com",
+      "website": "https://timelesspv.com",
+      "instagram": "@timelesspv",
+      "address": "Serving all of DC, Maryland, Virginia, and Pennsylvania"
+    },
+    "hours": "By appointment — book online or via email",
+    "established": "Founded October 2019 — 5+ years of wedding coverage",
+    "services": [
+      "Full wedding day photography",
+      "Full wedding day videography",
+      "Combined photo + video packages",
+      "Cinematic wedding films",
+      "Warm, storytelling-style photography"
+    ],
+    "specialties": [
+      "Combined photo + video under one team — no vendor coordination headaches",
+      "Consistent, cohesive style across every team member — no surprise results",
+      "Cinematic storytelling approach — not just documentation",
+      "30-day delivery guarantee — one of the fastest turnarounds in the market"
+    ],
+    "pricing": {
+      "minimum": "Photography from $1,499 · Videography from $1,599 · Photo + Video bundle from $2,499",
+      "average": "Significantly below NoVA market average for combined coverage — exceptional value",
+      "deposit": "Contact to confirm booking terms",
+      "note": "The $2,499 combined photo + video package is one of the strongest value propositions in the Northern"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "Multicultural",
+      "Cinematic Style"
+    ],
+    "culturalNotes": "Team-based structure means availability for multi-day or multi-location cultural events. For specific multicultural ceremony traditions (Hindu, South ",
+    "responseTime": "Contact via email or online booking form; responsive team",
+    "bookingLead": "Book early — team availability fills on peak Saturdays; 2026 dates available now",
+    "travelFee": "Covers DC, Maryland, Virginia, and Pennsylvania — broad regional coverage with n",
+    "teamSize": "Full-time team — multiple trained photographers and videogra",
+    "consult": "Contact via website or email to discuss packages and availability",
+    "plannerRating": 4.7,
+    "plannerNotes": "Timeless Photo + Video was built by someone who went through the wedding planning process, got sticker shock, and decided to do something about it — and that origin story shows up in how they operate. The $2,499 combined photo and video package is ge",
+    "plannerTags": [
+      "Best Value in NoVA",
+      "Combined Photo + Video",
+      "30-Day Delivery",
+      "Full Team Coverage",
+      "Budget-Friendly Without Compromise"
+    ],
+    "availability": "Now Booking 2026 & 2027 — inquire early for peak Saturdays",
+    "blogTag": "timeless-photo-video",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "modern",
+        "organic"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "photos",
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 6,
+    "name": "Chelsea Quenum Wedding Planning & Event Design",
+    "category": "Wedding Planning",
+    "location": "Northern Virginia · Washington DC · Charlottesville",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=900&q=80",
+    "contact": {
+      "phone": "+1 (571) 327-9899",
+      "email": "info@chelseaquenum.com",
+      "website": "https://chelseaquenum.com",
+      "instagram": "@chelseaquenum",
+      "address": "Serving Northern Virginia, Washington DC, and Charlottesville"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded April 2025",
+    "services": [
+      "Full Service Wedding Planning",
+      "Wedding Day Design & Management",
+      "Wedding Day Management",
+      "Ceremony & timeline coordination",
+      "Vendor sourcing and management"
+    ],
+    "specialties": [
+      "High-touch, personalized approach — every couple's vision, values, and story are centered",
+      "Planning experience designed to feel calm, supportive, and intentional — not stressful",
+      "Wedding Day Management for couples who want expert execution without full planning",
+      "Full Service Planning for couples who want a true partner from yes to I do"
+    ],
+    "pricing": {
+      "minimum": "Wedding Day Management from $2,500",
+      "average": "Wedding Day Design & Management $5,200 - Full Service Planning $7,000",
+      "deposit": "Contact to confirm",
+      "note": "Three clearly defined service tiers make it easy to find the right level of support. Full Service Pl"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "Multicultural",
+      "Inclusive",
+      "Cultural Celebrations"
+    ],
+    "culturalNotes": "Chelsea's high-touch, story-driven approach translates naturally to multicultural and cross-cultural weddings where understanding a couple's values an",
+    "responseTime": "Contact via email or website; personalized and attentive communication style",
+    "bookingLead": "New business — 2026 and 2027 dates available; early booking encouraged as calend",
+    "travelFee": "Serves Northern Virginia, Washington DC metro, and Charlottesville — no surprise",
+    "teamSize": "Boutique solo planner — deeply personal, owner-led experienc",
+    "consult": "Initial consultation to understand your vision, values, and story before any pla",
+    "plannerRating": 5,
+    "plannerNotes": "Chelsea Quenum brings something refreshing to the Northern Virginia planning market: a genuine belief that a wedding is a deeply personal beginning to a marriage, not just a beautiful event to execute. That philosophy shows up in how she works — high",
+    "plannerTags": [
+      "Intentional & High-Touch",
+      "Calm Planning Experience",
+      "Three Service Tiers",
+      "Charlottesville Coverage",
+      "New for 2026 — Dates Available"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact to check availability",
+    "blogTag": "chelsea-quenum-wedding-planning",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "organic",
+        "elegant",
+        "modern"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design",
+        "vendors",
+        "cultural"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 7,
+    "name": "Boozy Aloha",
+    "category": "Mobile Bar & Bartending",
+    "location": "Within 55 miles of Loudoun & Culpeper County, VA",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?w=900&q=80",
+    "contact": {
+      "phone": "+1 (540) 454-7480",
+      "email": "boozyaloha@gmail.com",
+      "website": "https://www.boozyaloha.com",
+      "instagram": "@boozyaloha",
+      "address": "Serving within 55 miles of Loudoun County and Culpeper County, Virginia"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded June 2023 — serving Northern Virginia and surroundin",
+    "services": [
+      "Mobile bar setup and bartending (Da Menehune packages)",
+      "Bartending-only service for venues with existing bar setup (Just da Bartender pa",
+      "Handcrafted cocktail menu development",
+      "Homemade syrups made with 100% real ingredients",
+      "Hand-dehydrated garnishes — custom craft cocktail presentation"
+    ],
+    "specialties": [
+      "Homemade syrups and hand-dehydrated garnishes — next-level craft cocktail quality",
+      "Two clear package tiers: bar-only service vs. full mobile bar setup",
+      "Transparent flat-rate pricing table — couples know exactly what to expect",
+      "Travel included within 55 miles of Loudoun and Culpeper County — covers most of NoVA and wine countr"
+    ],
+    "pricing": {
+      "minimum": "Flat-rate packages — pricing determined by service type, guest count, and event length; contact for a quote",
+      "average": "Pricing table provided so couples can see their exact rate before committing",
+      "deposit": "Contact to confirm",
+      "note": "Two package categories: 'Just da Bartender' (venue has existing bar setup) and 'Da Menehune' (full m"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "Custom Cocktails",
+      "All Celebrations"
+    ],
+    "culturalNotes": "Boozy Aloha's hospitality-forward approach and customizable cocktail menus make it a strong fit for celebrations of all backgrounds. For events with s",
+    "responseTime": "Contact via email or website; owner-operated and personally responsive",
+    "bookingLead": "Book early for peak Saturdays and wine country events; 2026 and 2027 dates avail",
+    "travelFee": "Travel covered within 55 miles of Loudoun County and Culpeper County — no travel",
+    "teamSize": "Owner-operated boutique service — Valerie Huelsman leads eve",
+    "consult": "Consultation to determine package type, guest count, service length, and flat-ra",
+    "plannerRating": 4.9,
+    "plannerNotes": "Boozy Aloha is not your standard bar service, and Valerie Huelsman is not your standard bartender. She grew up in Hawaii where hospitality is lived, not performed — and that shows up in everything from her hand-dehydrated garnishes to the way guests ",
+    "plannerTags": [
+      "Craft Cocktail Specialist",
+      "Homemade Syrups & Garnishes",
+      "Mobile Bar Included",
+      "Photo Booth + Officiant Too",
+      "Transparent Flat-Rate Pricing"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact for pricing table and availability",
+    "blogTag": "boozy-aloha-mobile-bar",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "boho",
+        "modern",
+        "classic"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design",
+        "vendors"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 8,
+    "name": "Cobblestone Streets Coffee",
+    "category": "Mobile Espresso Bar",
+    "location": "Northern Virginia to Charlottesville",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=900&q=80",
+    "contact": {
+      "phone": "+1 (347) 893-8567",
+      "email": "cobblestonestreetcoffee@yahoo.com",
+      "website": "https://cobblestonestreetscoffee.com",
+      "instagram": "@cobblestonestreetscoffee",
+      "address": "Serving Northern Virginia through Charlottesville"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded October 2025 — Northern Virginia's newest mobile esp",
+    "services": [
+      "Mobile espresso bar setup for weddings and events",
+      "Lattes, cappuccinos, and Americanos",
+      "Personalized flavored syrups for each event",
+      "Full espresso bar setup included in all packages",
+      "Choice of milks (dairy and non-dairy)"
+    ],
+    "specialties": [
+      "Real espresso bar setup inside your venue — guests watch their drinks being crafted",
+      "Interactive bar experience: guests engage with the baristas, not just a coffee station",
+      "Fully personalized syrup flavors tailored to each couple's event",
+      "Three clear package tiers with transparent flat pricing — no surprises"
+    ],
+    "pricing": {
+      "minimum": "Standard Package from $345 — 1 hour, up to 40 guests",
+      "average": "Signature Event Package from $495 — 2 hours, up to 85 guests (most booked) · Luxe Package from $875 — 4 hours, 100-150 guests",
+      "deposit": "Contact to confirm",
+      "note": "Three clean base packages make it easy to match your guest count and timeline. Add-ons (personalized"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "Inclusive"
+    ],
+    "culturalNotes": "Cobblestone Streets Coffee's warm, connection-first approach and customizable menu translate well to celebrations of all backgrounds. For events with ",
+    "responseTime": "Contact via email or website; owner-operated and personally responsive",
+    "bookingLead": "New business launched October 2025 — strong availability for 2026 and 2027 dates",
+    "travelFee": "Serves Northern Virginia through Charlottesville — most NoVA venues covered with",
+    "teamSize": "Owner-operated boutique service — personal, hands-on bar exp",
+    "consult": "Consultation to select package, personalize syrups and cups, and confirm logisti",
+    "plannerRating": 4.8,
+    "plannerNotes": "Cobblestone Streets Coffee fills a gap that most couples don't even know they have until cocktail hour: something warm, personal, and interactive for guests who aren't drinking, guests who need a mid-reception pick-me-up, or couples who just love cof",
+    "plannerTags": [
+      "Mobile Espresso Bar",
+      "Personalized Flavors",
+      "Interactive Guest Experience",
+      "Accessible Pricing",
+      "New for 2026 — Great Availability"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact for package details and availability",
+    "blogTag": "cobblestone-streets-coffee",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "boho",
+        "modern",
+        "classic"
+      ],
+      "cultural": [],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "design",
+        "vendors"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 9,
+    "name": "TP Designs Studio",
+    "category": "Floral Preservation",
+    "location": "DMV Area · Ships Nationwide",
+    "image": "https://images.unsplash.com/photo-1490750967868-88df5691cc41?w=900&q=80",
+    "contact": {
+      "phone": "+1 (540) 809-1939",
+      "email": "tpdesignsstudio@gmail.com",
+      "website": "https://www.tpdesignsstudio.com",
+      "instagram": "@tpdesignsstudio",
+      "address": "Local to the DMV area — ships nationwide across the United States"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded August 2025 — specializing in floral preservation keepsakes from your wedding blooms",
+    "services": [
+      "Custom floral preservation jewelry from bridal bouquets",
+      "Custom floral preservation home decor pieces",
+      "Sympathy flower preservation — turning memorial blooms into lasting keepsakes",
+      "Special occasion flower preservation beyond weddings",
+      "Nationwide shipping available"
+    ],
+    "specialties": [
+      "14k gold-filled floral preservation jewelry from $145 — wearable memory of your wedding day crafted from your actual blooms",
+      "Custom home decor preservation pieces from $300 — display your flowers forever in beautiful resin art",
+      "Homemade custom gifts from wedding flowers — thoughtful keepsakes for the couple and wedding party",
+      "Ships nationwide: couples anywhere in the US can send their flowers and receive a finished piece",
+      "Customer satisfaction is the core priority — every piece is personally crafted with care and skill"
+    ],
+    "pricing": {
+      "minimum": "14k Gold-filled Jewelry from $145 · Home Decor Pieces from $300",
+      "average": "Pricing varies by piece complexity, size, and number of flowers included — contact for a custom quote",
+      "deposit": "Contact to confirm deposit structure",
+      "paymentPlans": "Contact to discuss",
+      "note": "Jewelry starts at $145 for 14k gold-filled pieces; home decor from $300. Each piece is custom — final pricing depends on complexity and design. Ships nationwide so couples anywhere in the US can send their flowers post-wedding."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "Sympathy & Memorial"
+    ],
+    "culturalNotes": "Floral preservation is meaningful across cultures and traditions. Bridal bouquets, memorial flowers, and special occasion arrangements from any cultur",
+    "responseTime": "Contact via email or website; owner-operated and personally responsive",
+    "bookingLead": "Coordinate flower delivery around your wedding date — contact early to plan timing and design",
+    "travelFee": "Local to the DMV area for in-person coordination; ships nationwide — no travel fee for shipping clients",
+    "teamSize": "Owner-operated boutique studio — every piece personally craf",
+    "consult": "Consultation to discuss design vision, piece type, and coordinate flower deliver",
+    "plannerRating": 4.9,
+    "plannerNotes": "TP Designs Studio does something genuinely beautiful — they take the flowers that meant everything on your wedding day and turn them into something you can hold, wear, and keep forever. Floral preservation is one of those wedding categories couples discover too late, so we make a point of mentioning it early. Their 14k gold-filled jewelry starting at $145 is an accessible entry point, and the home decor pieces make stunning display items. Nationwide shipping means any couple anywhere can work with them. New as of 2025 and already delivering standout work.",
+    "plannerTags": [
+      "Floral Preservation Specialist",
+      "Bridal Bouquet Keepsakes",
+      "Ships Nationwide",
+      "Jewelry & Home Decor",
+      "Sympathy Flowers Too"
+    ],
+    "availability": "Now Booking — coordinate flower delivery around your wedding date; contact early to plan",
+    "blogTag": "tp-designs-studio-floral-preservation",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "organic",
+        "elegant",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 10,
+    "name": "The Rosy Posy",
+    "category": "Floral Design",
+    "location": "The DMV — DC · Maryland · Virginia",
+    "image": "https://images.unsplash.com/photo-1561181286-d3fee7d55364?w=900&q=80",
+    "contact": {
+      "phone": "+1 (808) 722-2301",
+      "email": "info@therosyposy.com",
+      "website": "https://www.therosyposy.com",
+      "instagram": "@therosyposy",
+      "address": "Serving DC, Maryland, and Virginia — the DMV"
+    },
+    "hours": "By appointment — contact via website or email",
+    "established": "Founded January 2013 — 12+ years of wedding floral design",
+    "services": [
+      "Full-service custom wedding floral design",
+      "Personal flowers: bridal bouquets, bridesmaid bouquets, boutonnieres, corsages",
+      "Large-scale ceremony installations",
+      "Reception floral design and installations",
+      "Delivery, setup, and breakdown included"
+    ],
+    "specialties": [
+      "Signature romantic, garden-inspired style rooted in British floral sensibility",
+      "Movement, texture, and a gathered-from-the-garden feel — not overly structured arrangements",
+      "The Briar Patch a la carte option for couples wanting personal flowers without full-service pricing",
+      "12+ years of wedding floral experience across multiple states and landscapes"
+    ],
+    "pricing": {
+      "minimum": "The Briar Patch a la carte collection — flexible pricing for personal flowers and select arrangements",
+      "average": "Full-service wedding floral design starting at $8,000",
+      "deposit": "Contact to confirm",
+      "note": "Two clear paths: full-service custom design starting at $8,000 for couples who want a complete flora"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "Garden Style",
+      "Romantic",
+      "Natural Aesthetic"
+    ],
+    "culturalNotes": "Lisa's international background — born in the UK, lived in Hawaii, the Bay Area, and across the US as a Navy family — gives her a naturally broad aest",
+    "responseTime": "Contact via website or email; personal and thoughtful communication style",
+    "bookingLead": "With 12+ years in the market and a strong reputation, peak dates book well in ad",
+    "travelFee": "Serves the full DMV — DC, Maryland, and Virginia — delivery, setup, and breakdow",
+    "teamSize": "Owner-led boutique studio — Lisa personally designs every we",
+    "consult": "In-depth design consultation to understand your vision, values, and the story yo",
+    "plannerRating": 5,
+    "plannerNotes": "Lisa is the kind of florist who changes how couples think about flowers. Her British-rooted, garden-inspired aesthetic is immediately recognizable — loose, abundant, textural, alive — and it stands apart from the more structured arrangements that dom",
+    "plannerTags": [
+      "British Garden Aesthetic",
+      "12+ Years Experience",
+      "The Briar Patch A La Carte",
+      "Large-Scale Installations",
+      "Romantic & Natural"
+    ],
+    "availability": "Contact for current availability — peak dates book early",
+    "blogTag": "the-rosy-posy-floral-design",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "classic",
+        "elegant",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "upscale",
+        "luxury"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 11,
+    "name": "Shanel Nicole Photography",
+    "category": "Photography",
+    "location": "DMV — DC · Maryland · Virginia",
+    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=900&q=80",
+    "contact": {
+      "phone": "+1 (540) 729-0936",
+      "email": "info@shanelnicolephotography.net",
+      "website": "https://shanelnicolephotography.net",
+      "instagram": "@shanelnicolephotography",
+      "address": "Based in Virginia — serving the DMV"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded January 2023 — 2+ years of photography experience",
+    "services": [
+      "Wedding photography — packages from 4 to 8 hours",
+      "Content creation services",
+      "Senior portrait photography",
+      "Customized packages tailored to your timeline and needs",
+      "Personal, story-driven approach to every session"
+    ],
+    "specialties": [
+      "Authentic, personality-driven photography — no copy-and-paste sessions",
+      "Builds genuine bonds with clients so they feel comfortable and natural on camera",
+      "Every couple's story and personality shows through their images — not a generic wedding formula",
+      "Content creation services alongside wedding photography — social-ready images included"
+    ],
+    "pricing": {
+      "minimum": "4-hour package from $1,100",
+      "average": "6-hour package $1,700 · 8-hour package $2,300",
+      "deposit": "Contact to confirm",
+      "note": "Three clear time-based packages with custom options available. The $1,100 entry price makes professi"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "Inclusive"
+    ],
+    "culturalNotes": "Shanel's client-first, bond-building approach translates well across cultural backgrounds and celebration styles. Her focus on capturing authentic per",
+    "responseTime": "Contact via email or website; personable and client-focused communication style",
+    "bookingLead": "2026 and 2027 dates available — book early for peak Saturdays as calendar builds",
+    "travelFee": "Based in Virginia; serves the full DMV — contact for specific location coverage",
+    "teamSize": "Solo photographer — every session personally shot by Shanel",
+    "consult": "Consultation to understand your story, timeline, and what moments matter most to",
+    "plannerRating": 4.7,
+    "plannerNotes": "Shanel Nicole Photography brings something the DMV wedding market genuinely needs: accessible pricing from a photographer who leads with connection, not just coverage. At $1,100 for four hours and $2,300 for a full eight-hour day, she sits well below",
+    "plannerTags": [
+      "Affordable Wedding Photography",
+      "Personality-Driven Approach",
+      "Custom Packages Available",
+      "Content Creation Included",
+      "Camera-Shy Couples Welcome"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact for package details and availability",
+    "blogTag": "shanel-nicole-photography",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "classic",
+        "organic",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "photos"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 12,
+    "name": "Petal Pop Party Rentals",
+    "category": "Event Rentals & Décor",
+    "location": "Reston & Leesburg, VA · All of Northern Virginia · Parts of DC & MD",
+    "image": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?w=900&q=80",
+    "contact": {
+      "phone": "+1 (703) 625-0906",
+      "email": "petalpoppartyrentals@gmail.com",
+      "website": "https://www.petalpoprentals.com",
+      "instagram": "@petalpoprentals",
+      "address": "Based in Reston, VA — from Leesburg, VA; serving all of Northern Virginia and parts of DC and Maryland"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded July 2024 — Northern Virginia event rentals and cust",
+    "services": [
+      "Arch backdrops — ceremony, photo moments, and reception design",
+      "Balloon installations — custom color palettes and configurations",
+      "Flower walls — statement pieces and photo backdrops",
+      "Themed décor for weddings, bridal showers, and baby showers",
+      "Custom event décor design beyond standard rental inventory"
+    ],
+    "specialties": [
+      "Custom design approach — not one-size-fits-all rentals, everything matched to your vision, theme, an",
+      "Custom sourcing: if a client doesn't see what they want in the inventory, Petal Pop will help source",
+      "Hospitality-trained founder — Virginia Tech Hospitality graduate with real wedding coordination expe",
+      "Based in the heart of NoVA wine country (Reston and Leesburg) — deeply familiar with the region's ve"
+    ],
+    "pricing": {
+      "minimum": "$175 minimum rental fee to book; additional delivery fees may apply depending on location",
+      "average": "All current pricing listed transparently on website — contact for custom quotes",
+      "deposit": "Contact to confirm",
+      "note": "Full pricing is available on the website. The $175 minimum makes Petal Pop accessible for smaller ev"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "Custom Themes"
+    ],
+    "culturalNotes": "Petal Pop's custom design approach and willingness to source specific pieces make it a flexible fit for cultural celebrations with specific aesthetic ",
+    "responseTime": "Contact via email or website; founder-operated and personally responsive",
+    "bookingLead": "Founded July 2024 — strong availability for 2026 and 2027; book early for peak S",
+    "travelFee": "Based in Reston and Leesburg; serves all of Northern Virginia and parts of DC an",
+    "teamSize": "Founder-operated boutique rental company — personal, hands-o",
+    "consult": "Design consultation to match rentals to your theme, colors, and overall celebrat",
+    "plannerRating": 4.8,
+    "plannerNotes": "Petal Pop fills a gap that most couples don't realize exists until they're deep in planning: beautiful, elevated rental pieces that don't require a full floral or décor vendor budget. Founder is a Virginia Tech Hospitality grad who spent college summ",
+    "plannerTags": [
+      "Arch Backdrops & Flower Walls",
+      "Custom Sourcing Available",
+      "Hospitality-Trained Founder",
+      "Reston & Leesburg Based",
+      "Accessible $175 Minimum"
+    ],
+    "availability": "Now Booking 2026 & 2027 — full pricing on website; contact to discuss custom designs",
+    "blogTag": "petal-pop-party-rentals",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "classic",
+        "organic",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 13,
+    "name": "I Do Weddings with Love",
+    "category": "Wedding Planning & Floral Design",
+    "location": "Throughout Virginia",
+    "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=900&q=80",
+    "contact": {
+      "phone": "+1 (757) 813-1115",
+      "email": "hello@idoweddingswithlove.com",
+      "website": "https://www.idoweddingswithlove.com",
+      "instagram": "@idoweddingswithlove",
+      "address": "Based in Virginia — serving couples throughout the state"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded February 2017 — 8+ years of wedding planning and flo",
+    "services": [
+      "Full-service wedding planning",
+      "Partial wedding coordination",
+      "Day-of coordination and management",
+      "Custom wedding design — tailored aesthetics to your love story",
+      "Wedding floral design — ceremony and reception flowers"
+    ],
+    "specialties": [
+      "One studio, two services: wedding planning AND floral design — fewer vendors, more cohesion",
+      "No retail shop — every single stem ordered is used exclusively for your wedding",
+      "Flower pricing that scales honestly: carnations to roses to orchids — you choose your budget",
+      "8+ years of Virginia wedding experience with deep local venue and vendor connections"
+    ],
+    "pricing": {
+      "minimum": "Pricing varies by floral selection — carnations, roses, and orchids are priced accordingly; contact for a custom quote",
+      "average": "Pricing scales with flower choices and scope of planning services; transparent consultation process",
+      "deposit": "Contact to confirm",
+      "note": "Floral pricing is honest and transparent — you choose the flowers, the cost follows. Because there i"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "Multicultural",
+      "All Celebrations",
+      "Elopements Welcome"
+    ],
+    "culturalNotes": "Eight years of Virginia wedding experience across diverse couples and celebration styles gives I Do Weddings with Love a broad cultural fluency. For m",
+    "responseTime": "Contact via email or website; experienced team with professional coordination co",
+    "bookingLead": "8+ years in the market — peak dates book in advance; reach out early for spring ",
+    "travelFee": "Serves all of Virginia — contact to confirm any travel or logistics fees for you",
+    "teamSize": "Boutique studio — personalized planning and floral design wi",
+    "consult": "Design and planning consultation to understand your vision, budget, and the expe",
+    "plannerRating": 4.8,
+    "plannerNotes": "I Do Weddings with Love offers something genuinely unusual in the NoVA and Virginia market: a single studio that handles both wedding planning and floral design. That combination is rarer than it sounds, and the value to couples is real — the same cr",
+    "plannerTags": [
+      "Planning & Florals in One Studio",
+      "No Retail Shop — Every Stem Is Yours",
+      "8+ Years Virginia Experience",
+      "Elopements to Grand Ballrooms",
+      "Statewide Virginia Coverage"
+    ],
+    "availability": "Contact for current availability — peak dates book early",
+    "blogTag": "i-do-weddings-with-love",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "organic",
+        "elegant",
+        "modern"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design",
+        "vendors"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 14,
+    "name": "Forever by Fern",
+    "category": "Wedding Planning",
+    "location": "DMV — DC · Maryland · Virginia",
+    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=900&q=80",
+    "contact": {
+      "phone": "+1 (571) 232-7905",
+      "email": "foreverbyfern@gmail.com",
+      "website": "https://www.foreverbyfern.com",
+      "instagram": "@foreverbyfern",
+      "address": "Serving DC, Maryland, and Virginia — the DMV"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded August 2021 — 4+ years of event planning and coordin",
+    "services": [
+      "Day-of coordination — full execution of your wedding day vision",
+      "Partial planning — collaborative planning support for couples who have started b",
+      "Timeline creation and vendor coordination",
+      "Ceremony and reception logistics management",
+      "Personal touches and custom details woven into every event"
+    ],
+    "specialties": [
+      "Friendship-first approach — builds genuine relationships with clients to truly understand their visi",
+      "Personal touches that make events feel uniquely yours — not templated",
+      "Well-planned, perfectly-executed events: precision and care in equal measure",
+      "Two focused service tiers — day-of and partial planning — done with full dedication"
+    ],
+    "pricing": {
+      "minimum": "Day-of Coordination from $3,500",
+      "average": "Partial Planning $5,000",
+      "deposit": "Contact to confirm",
+      "note": "Two clear service tiers with transparent pricing. Day-of Coordination at $3,500 is for couples who h"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "Inclusive"
+    ],
+    "culturalNotes": "Forever by Fern's relationship-driven, vision-first approach adapts naturally to weddings of any background or cultural tradition. The focus on person",
+    "responseTime": "Contact via email or website; personable and relationship-focused communication ",
+    "bookingLead": "4+ years in the DMV market — peak dates book in advance; reach out early for spr",
+    "travelFee": "Serves the full DMV — DC, Maryland, and Virginia; contact to confirm logistics f",
+    "teamSize": "Boutique owner-operated studio — every event personally coor",
+    "consult": "Relationship-building consultation to learn your vision, priorities, and the per",
+    "plannerRating": 4.8,
+    "plannerNotes": "Forever by Fern brings a simple but effective differentiator to the DMV planning market: she wants to be friends with her clients. That is not a marketing line — it is a philosophy about how to do this work well. When a coordinator genuinely knows a ",
+    "plannerTags": [
+      "Friendship-First Approach",
+      "Personal Touches Specialist",
+      "Day-of & Partial Planning",
+      "4+ Years DMV Experience",
+      "Boutique & Personal"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact for availability and consultation",
+    "blogTag": "forever-by-fern",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "organic",
+        "elegant",
+        "modern"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "vendors",
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 15,
+    "name": "Taylored Society Events",
+    "category": "Wedding Planning",
+    "location": "Northern Virginia · DMV · West Virginia · Wine Country",
+    "image": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=900&q=80",
+    "contact": {
+      "phone": "+1 (571) 352-1702",
+      "email": "info@tayloredsocietyevents.com",
+      "website": "https://www.tayloredsocietyevents.com",
+      "instagram": "@tayloredsocietyevents",
+      "address": "Serving Northern Virginia, the DMV, West Virginia, and Loudoun County wine country"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded October 2025 — built on years of Northern Virginia w",
+    "services": [
+      "Full-service wedding planning",
+      "Partial wedding planning",
+      "Wedding day coordination",
+      "Timeline development",
+      "Vendor coordination and management"
+    ],
+    "specialties": [
+      "RN background: calm under pressure, complex logistics management, anticipates problems before they a",
+      "Deep Northern Virginia industry experience — worked alongside prominent planning companies and venue",
+      "Loudoun County and wine country specialist — regularly works at NoVA vineyard and destination venues",
+      "Custom proposals after every consultation — no rigid packages, every couple gets what they actually "
+    ],
+    "pricing": {
+      "minimum": "Wedding day coordination from $2,000",
+      "average": "Planning and design packages vary based on level of support, guest count, and event complexity — custom proposals after consultation",
+      "deposit": "Contact to confirm",
+      "note": "No rigid package tiers — every couple receives a custom proposal after an initial consultation tailo"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "Multicultural",
+      "All Celebrations",
+      "Wine Country Specialist"
+    ],
+    "culturalNotes": "Years of experience across Northern Virginia's diverse wedding market — including multicultural celebrations at Loudoun County and wine country venues",
+    "responseTime": "Contact via email or website; professional, organized, and highly responsive com",
+    "bookingLead": "Launched October 2025 with years of industry experience behind her — strong avai",
+    "travelFee": "Serves Northern Virginia, DMV, and West Virginia as primary markets; Loudoun Cou",
+    "teamSize": "Owner-operated boutique planning studio — every wedding pers",
+    "consult": "Custom consultation to understand your vision, priorities, and event scope befor",
+    "plannerRating": 5,
+    "plannerNotes": "Taylored Society Events is one of the most compelling new businesses in the directory — and the story behind it earns that designation. The founder spent years as a registered nurse before pivoting into events, and that background is not decorative. ",
+    "plannerTags": [
+      "RN Background — Calm Under Pressure",
+      "NoVA Industry Insider",
+      "Wine Country Specialist",
+      "Custom Proposals — No Rigid Packages",
+      "Coordination from $2,000"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact for a custom consultation and proposal",
+    "blogTag": "taylored-society-events",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "elegant",
+        "organic",
+        "modern"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "vendors",
+        "design",
+        "cultural"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 16,
+    "name": "Classie Sassie Mixerz",
+    "category": "Day-of Coordination & Bar Services",
+    "location": "Virginia · Maryland · DC · West Virginia",
+    "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=900&q=80",
+    "contact": {
+      "phone": "+1 (540) 212-8440",
+      "email": "classiesassiemixerz@gmail.com",
+      "website": "https://www.classiesassiemixerz.com",
+      "instagram": "@classiesassiemixerz",
+      "address": "Serving all of Virginia, Maryland, DC, and West Virginia"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded January 2015 — 10+ years of event coordination and b",
+    "services": [
+      "Day-of wedding coordination",
+      "Bartending services",
+      "Serving and catering support",
+      "Event rentals",
+      "Multi-service coverage — coordination, bar, and rentals in one vendor relationsh"
+    ],
+    "specialties": [
+      "Known as the Wedding Saver — steps in and solves problems before couples ever know they existed",
+      "Above-and-beyond communication style — more proactive than most vendors in the market",
+      "Multi-service vendor: day-of coordination, bartending, serving, AND rentals under one relationship",
+      "10+ years of experience across VA, MD, DC, and West Virginia"
+    ],
+    "pricing": {
+      "minimum": "Services start at $870 — pricing varies based on services needed and event scope",
+      "average": "Contact for a custom quote based on your specific combination of coordination, bartending, serving, and rental needs",
+      "deposit": "Contact to confirm",
+      "note": "Starting at $870 with pricing that varies by service combination makes Classie Sassie Mixerz one of "
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "Inclusive"
+    ],
+    "culturalNotes": "Ten years of event experience across four states means exposure to celebrations of all kinds and backgrounds. For events with specific cultural servic",
+    "responseTime": "Known for exceptional, proactive communication — more responsive than most vendo",
+    "bookingLead": "10+ years of experience means strong market presence — book early for peak Satur",
+    "travelFee": "Serves all of Virginia, Maryland, DC, and West Virginia — broad regional coverag",
+    "teamSize": "Owner-operated with hands-on personal involvement at every e",
+    "consult": "Consultation to discuss which combination of services best fits your event needs",
+    "plannerRating": 4.8,
+    "plannerNotes": "Classie Sassie Mixerz has been earning the nickname Wedding Saver since 2015, and that reputation does not happen by accident. Ten years of showing up to events, anticipating what couples need, and going beyond the job description is what builds that",
+    "plannerTags": [
+      "The Wedding Saver",
+      "Multi-Service: Coordination + Bar + Rentals",
+      "10+ Years Experience",
+      "Proactive Communication",
+      "Accessible from $870"
+    ],
+    "availability": "Now Booking — contact for availability and custom pricing across your service combination",
+    "blogTag": "classie-sassie-mixerz",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "modern",
+        "organic",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "vendors"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 17,
+    "name": "Sehar Shafqat Photography",
+    "category": "Photography",
+    "location": "DMV — DC · Maryland · Virginia",
+    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=900&q=80",
+    "contact": {
+      "phone": "Contact via website",
+      "email": "seharshafqatphotography@gmail.com",
+      "website": "https://seharsphotography.com",
+      "instagram": "@seharsphotography",
+      "address": "Serving the DC, Maryland, and Virginia area"
+    },
+    "hours": "By appointment — free consultation call available via website",
+    "established": "Active wedding and portrait photographer serving the DMV",
+    "services": [
+      "Wedding photography — full day coverage",
+      "Engagement sessions",
+      "Family portrait sessions",
+      "Brand photography sessions",
+      "Mini sessions"
+    ],
+    "specialties": [
+      "Sneak preview delivered within 24 hours — one of the fastest turnaround promises in the directory",
+      "Full gallery delivered in 2-4 weeks — well above industry average speed",
+      "Personal gallery app for every client — easy sharing and print ordering",
+      "Exceptional skill with camera-shy clients — multiple client reviews specifically praise her ability "
+    ],
+    "pricing": {
+      "minimum": "Contact for current wedding package pricing — free consultation available",
+      "average": "Contact via website for detailed pricing; free consultation call offered to discuss vision and packages",
+      "deposit": "Contact to confirm",
+      "note": "Free consultation call available to discuss your vision, expectations, and packages before committin"
+    },
+    "culturalScore": 5,
+    "culturalBadges": [
+      "South Asian",
+      "Muslim Weddings",
+      "Multicultural",
+      "Cross-Cultural",
+      "All Celebrations"
+    ],
+    "culturalNotes": "Sehar Shafqat's name, background, and client portfolio reflect deep fluency in South Asian and Muslim wedding traditions. Her portfolio includes coupl",
+    "responseTime": "Proactively responsive — free consultation scheduling available directly through",
+    "bookingLead": "Contact early for peak Saturdays; free consultation call available to check avai",
+    "travelFee": "Serves DC, Maryland, and Virginia — contact to confirm coverage for your specifi",
+    "teamSize": "Solo photographer — every session personally shot by Sehar",
+    "consult": "Free consultation call offered to discuss vision, expectations, and packages — b",
+    "plannerRating": 4.9,
+    "plannerNotes": "Sehar Shafqat Photography stands out in the directory for two specific reasons. First, the client reviews consistently say the same thing: she makes camera-shy people comfortable. That is not a small thing — most couples are nervous in front of a cam",
+    "plannerTags": [
+      "South Asian & Muslim Wedding Specialist",
+      "Camera-Shy Couples Welcome",
+      "24-Hr Sneak Preview",
+      "2-4 Week Delivery",
+      "Free Consultation Available"
+    ],
+    "availability": "Contact for availability — free consultation call bookable directly via website",
+    "blogTag": "sehar-shafqat-photography",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "modern",
+        "organic"
+      ],
+      "cultural": [
+        "south_asian",
+        "muslim",
+        "multicultural"
+      ],
+      "budget": [
+        "moderate"
+      ],
+      "priority": [
+        "photos",
+        "cultural"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 18,
+    "name": "Lisa Boggs Photography",
+    "category": "Photography",
+    "location": "Washington DC · Northern Virginia · DMV",
+    "image": "https://images.squarespace-cdn.com/content/v1/668594aad638332975052ede/fb5df0fd-e930-4cdb-9262-4dbf74a08f94/Home%2Bhero%2Bimage.jpg",
+    "contact": {
+      "phone": "(571) 432-8469",
+      "email": "lisa@lisaboggsphotography.com",
+      "website": "https://www.lisaboggsphotography.com",
+      "instagram": "@lisaboggsphotography",
+      "address": "Washington DC and Northern Virginia — serving the full DMV"
+    },
+    "hours": "By appointment — contact via website or email",
+    "established": "18 years of professional photography — 475+ clients, 140+ ev",
+    "services": [
+      "Full wedding day photography",
+      "Engagement sessions",
+      "Family portrait photography",
+      "School photography",
+      "Custom photography collections tailored to each couple"
+    ],
+    "specialties": [
+      "Washingtonian Weddings Best Vendor 2024 — one of DC's highest editorial honors",
+      "140+ five-star reviews on WeddingWire — one of the strongest review counts in the region",
+      "7-Time Fearless Photographers Award Winner — international recognition for creative excellence",
+      "Co-Leader of CAP (Capital Area Photographers) — a network of 2,000+ DC-area photographers since 2013"
+    ],
+    "pricing": {
+      "minimum": "Wedding photography from $9,500",
+      "average": "Custom proposals available upon request — contact for full wedding collection pricing",
+      "deposit": "Contact to confirm",
+      "note": "Wedding photography starting at $9,500 reflects Lisa's 18 years of experience, editorial accolades, "
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "Multicultural",
+      "Editorial",
+      "Luxury"
+    ],
+    "culturalNotes": "Eighteen years of shooting across Washington DC's extraordinarily diverse wedding market means genuine exposure to multicultural celebrations of every",
+    "responseTime": "Professional and responsive — contact via website form or direct email; known fo",
+    "bookingLead": "18 years of reputation means peak Saturdays book well in advance — reach out ear",
+    "travelFee": "Based in the DC/Northern Virginia area; serves the full DMV and beyond — contact",
+    "teamSize": "Solo photographer — every wedding personally shot by Lisa; s",
+    "consult": "Contact via website to discuss your wedding vision, timeline, and collection opt",
+    "plannerRating": 5,
+    "plannerNotes": "Lisa Boggs is one of the most credentialed photographers in the entire directory — and the accolades are not just impressive, they are earned across 18 years of consistent, high-quality work. Washingtonian Weddings Best Vendor 2024. Seven Fearless Ph",
+    "plannerTags": [
+      "Washingtonian Best Vendor 2024",
+      "140+ Five-Star Reviews",
+      "7x Fearless Photographers Award",
+      "Published in Vanity Fair & Martha Stewart",
+      "18 Years Experience"
+    ],
+    "availability": "Contact for 2026 & 2027 availability — peak dates book well in advance",
+    "blogTag": "lisa-boggs-photography",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "elegant",
+        "modern",
+        "organic"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "upscale",
+        "luxury"
+      ],
+      "priority": [
+        "photos"
+      ]
+    },
+    "quote": {
+      "text": "She set out an entire plan for the day and truly took away so much anxiety. You could not go wrong working with Lisa.",
+      "attr": "Paige Lesher — via website"
+    },
+    "portfolio": []
+  },
+  {
+    "id": 19,
+    "name": "Samantha Martin Photography",
+    "category": "Photography",
+    "location": "Virginia · Washington DC · DMV & Beyond",
+    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=900&q=80",
+    "contact": {
+      "phone": "Contact via website",
+      "email": "Contact via website",
+      "website": "http://samanthamartinphotographer.com",
+      "instagram": "@samanthamartinphotos",
+      "address": "Serving VA, MD, DC, and beyond — available for travel"
+    },
+    "hours": "By appointment — contact via website",
+    "established": "Wedding photographer serving Virginia, DC, and the DMV",
+    "services": [
+      "Wedding photography — full day coverage",
+      "Engagement sessions",
+      "Lifestyle photography",
+      "Portrait photography",
+      "Travel available for destination weddings"
+    ],
+    "specialties": [
+      "Romantic and fresh love story style — warm, natural, and full of genuine emotion",
+      "Virginia and DC wedding market expertise — familiarity with the region's venues and light",
+      "Available for travel to destination weddings beyond the DMV",
+      "Genuine warmth with couples — known for making clients feel like a guest, not a subject"
+    ],
+    "pricing": {
+      "minimum": "Contact for current wedding pricing and package details",
+      "average": "Contact via website to discuss your specific wedding timeline and collection options",
+      "deposit": "Contact to confirm",
+      "note": "Pricing and full package information available through direct contact. Reach out via the website to "
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "Romantic Style",
+      "All Celebrations"
+    ],
+    "culturalNotes": "Samantha's warm, connection-forward shooting style adapts well to celebrations of varied backgrounds. Discuss your specific cultural traditions and ke",
+    "responseTime": "Contact via website form or social media; warm and approachable communication st",
+    "bookingLead": "Contact early for peak Saturdays — Virginia spring and fall wedding dates fill i",
+    "travelFee": "Based in Virginia; serves VA, MD, DC, and available for travel to destination we",
+    "teamSize": "Solo photographer — every wedding personally shot by Samanth",
+    "consult": "Contact via website to connect, discuss your vision, and explore availability",
+    "plannerRating": 4.7,
+    "plannerNotes": "Samantha Martin Photography brings a warm, romantic, story-driven approach to wedding photography that resonates strongly with couples who want their images to feel like them — not like a stock photo. Her style is described as romantic and fresh, and",
+    "plannerTags": [
+      "Romantic & Fresh Style",
+      "Virginia & DC Specialist",
+      "Destination Travel Available",
+      "Connection-Forward Approach",
+      "Verify Current Availability"
+    ],
+    "availability": "Contact to confirm current booking availability for 2026 & 2027",
+    "blogTag": "samantha-martin-photography",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "classic",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate"
+      ],
+      "priority": [
+        "photos"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 20,
+    "name": "Level Up Entertainment",
+    "category": "DJ & Entertainment",
+    "location": "Virginia · DC · Maryland · Nationwide",
+    "image": "https://images.squarespace-cdn.com/content/v1/5e3c7fa92ffc2d36695f445f/1581623223330-40N69E1G9OMEA3FQBQ6U/generalpcis9.jpg",
+    "contact": {
+      "phone": "Contact via website",
+      "email": "Contact via website",
+      "website": "https://www.lvlupent.com",
+      "instagram": "@level.up.ent",
+      "address": "Serving Virginia, DC, Maryland, and events nationwide"
+    },
+    "hours": "By appointment — contact via website",
+    "established": "Founded 2016 — most sought-after entertainment service in th",
+    "services": [
+      "DJ packages across four experience tiers",
+      "Live band services",
+      "Special effects — fog, lighting, pyrotechnics and more",
+      "Luxury DJ booth setups",
+      "Photo booth rental"
+    ],
+    "specialties": [
+      "The Knot Best of Weddings: 2020, 2021, 2022, 2023, 2024 — five consecutive years",
+      "WeddingWire Couples Choice Award 2022 and 2023",
+      "The Knot Hall of Fame 2023 — awarded for sustained excellence over multiple years",
+      "Featured on Zola and in People magazine"
+    ],
+    "pricing": {
+      "minimum": "Tier 2/Silver from $2,000 — DJs with 3+ years wedding experience",
+      "average": "Tier 3/Gold from $3,000 (8+ years experience, most awarded package) · Le Premier from $4,000 (10+ years, A-list DJs) · DJ Gbaby Exclusive from $6,000",
+      "deposit": "Contact to confirm",
+      "note": "Four tiered packages let couples match budget and energy level with the right DJ. Tier 3/Gold is des"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "Multicultural",
+      "All Celebrations",
+      "High Energy"
+    ],
+    "culturalNotes": "Level Up's diverse roster of 20+ DJs and experience across VA, DC, and Maryland's incredibly multicultural wedding market means genuine familiarity wi",
+    "responseTime": "Contact via website — professional team with strong booking and communication sy",
+    "bookingLead": "The Knot Hall of Fame recognition means peak Saturdays book well in advance — re",
+    "travelFee": "Based in Virginia/DC area; serves VA, DC, MD, and available nationwide — contact",
+    "teamSize": "20+ DJ roster led by founder DJ Gbaby — largest DJ team in t",
+    "consult": "Contact via website to discuss package tier, event details, and DJ selection",
+    "plannerRating": 5,
+    "plannerNotes": "Level Up Entertainment is the most decorated entertainment vendor in the directory, and it is not particularly close. Five consecutive Knot Best of Weddings wins from 2020 through 2024. WeddingWire Couples Choice two years running. The Knot Hall of F",
+    "plannerTags": [
+      "The Knot Hall of Fame 2023",
+      "5x Knot Best of Weddings",
+      "20+ DJ Roster",
+      "Four Package Tiers",
+      "Live Band + Special Effects"
+    ],
+    "availability": "Contact for 2026 & 2027 availability — peak dates book in advance",
+    "blogTag": "level-up-entertainment",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "classic",
+        "boho",
+        "organic"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "moderate",
+        "upscale",
+        "luxury"
+      ],
+      "priority": [
+        "vendors"
+      ]
+    },
+    "quote": {
+      "text": "DJ Gbaby had every single person on the dance floor — young, old, everyone. It was unlike any wedding I have ever attended.",
+      "attr": "Bride, 2024 — via The Knot"
+    },
+    "portfolio": []
+  },
+  {
+    "id": 21,
+    "name": "Fairy Bronze Mother",
+    "category": "Bridal Beauty & Wellness",
+    "location": "Alexandria, VA · Mobile Services Available · Travel Available",
+    "image": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=900&q=80",
+    "contact": {
+      "phone": "(703) 223-9396",
+      "email": "Contact via website",
+      "website": "https://fairybronzemother.com",
+      "instagram": "@fairybronzemother",
+      "address": "7011-H Manchester Lake Blvd., Alexandria, VA 22310"
+    },
+    "hours": "Tue–Fri 11am–8pm · Sat 10am–2pm · Sun & Mon closed or by appointment",
+    "established": "Sunless tanning and medical spa serving Alexandria and the D",
+    "services": [
+      "Custom airbrush spray tans — proprietary blend matched to each client's skin typ",
+      "VersaSpa PRO automated spray tan booth — walk-in friendly, in and out in under 1",
+      "Bridal spray tan packages — dedicated packages for brides and wedding parties",
+      "Mobile spray tan parties — Fairy Bronze Mother comes to you for bridal showers, ",
+      "Travel services — available to travel to wedding venues and destination events"
+    ],
+    "specialties": [
+      "Proprietary spray tan solution — custom-blended for each client's unique skin type using science, no",
+      "Mobile bridal party service — brings the spray tan experience directly to the getting-ready suite or",
+      "Travel available — can serve destination weddings and venues beyond Alexandria",
+      "Full-service bridal category: spray tans, medical aesthetics, and IV therapy all under one roof"
+    ],
+    "pricing": {
+      "minimum": "Contact for current bridal package and mobile service pricing — see website for full pricing details",
+      "average": "Custom spray tan sessions, bridal packages, mobile party rates, and medical aesthetics all available; book via Square",
+      "deposit": "Contact to confirm",
+      "note": "Bridal packages, mobile party pricing, and individual service rates are available on the website and"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "All Skin Tones"
+    ],
+    "culturalNotes": "Custom-blended spray tan solutions are mixed to complement each individual client's skin tone — not a generic formula. Fairy Bronze Mother's approach ",
+    "responseTime": "Book directly via Square booking link on website; phone (703) 223-9396",
+    "bookingLead": "Book bridal appointments and mobile party services early — peak wedding season d",
+    "travelFee": "Mobile party service brings Fairy Bronze Mother to your location; travel availab",
+    "teamSize": "Studio team in Alexandria; mobile services bring the experie",
+    "consult": "Visit in studio or contact via phone to discuss bridal packages, mobile party op",
+    "plannerRating": 4.8,
+    "plannerNotes": "Fairy Bronze Mother fills a category that planners know couples need and often scramble to find close to the wedding: a trusted, quality spray tan studio with dedicated bridal services and the option to come to you. The custom-blended solution is the",
+    "plannerTags": [
+      "Custom-Blended Spray Tans",
+      "Mobile Bridal Party Service",
+      "Travel Available",
+      "Med Spa + Botox + Fillers",
+      "IV Infusion Therapy"
+    ],
+    "availability": "Book via website or call (703) 223-9396 — bridal packages and mobile parties available now",
+    "blogTag": "fairy-bronze-mother-spray-tan",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "elegant",
+        "modern",
+        "organic"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design",
+        "vendors"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 22,
+    "name": "Best Face Forward",
+    "category": "Hair & Makeup",
+    "location": "DC · Northern Virginia · Maryland · Hampton Roads",
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=900&q=80",
+    "contact": {
+      "phone": "757-472-5272",
+      "email": "info@bestfaceartists.com",
+      "website": "https://bestfaceartists.com",
+      "instagram": "@bestfaceartists",
+      "address": "Serving DC, Northern Virginia, Maryland, and Hampton Roads"
+    },
+    "hours": "By appointment — contact via website",
+    "established": "Founded 2010 — award-winning luxury hair and makeup team ser",
+    "services": [
+      "Bridal and wedding party makeup",
+      "Bridal and wedding party hair styling",
+      "Men's styling and grooming",
+      "Wedding day facials for grooms and wedding party",
+      "Skin services (all ages and genders)"
+    ],
+    "specialties": [
+      "Founded by a bride who couldn't find what she needed — built specifically to solve the problem of fr",
+      "Full team model: skin, makeup, hair, AND men's grooming under one booking",
+      "Handles large wedding parties efficiently — 11 people completed in 3.5 hours with 2 hair and 2 makeu",
+      "Expertise with diverse skin tones and hair textures — multiple reviews specifically praise ability t"
+    ],
+    "pricing": {
+      "minimum": "Contact for current bridal and wedding party pricing",
+      "average": "Custom quotes based on party size, services needed, and location — contact via website",
+      "deposit": "Contact to confirm",
+      "note": "Full-service luxury team pricing — contact via website or email to discuss your wedding party size, "
+    },
+    "culturalScore": 5,
+    "culturalBadges": [
+      "South Asian",
+      "Black & Brown Brides",
+      "Multicultural",
+      "All Skin Tones",
+      "Men's Grooming"
+    ],
+    "culturalNotes": "Multiple independent client reviews specifically praise Best Face Forward's ability to work with diverse hair textures and darker complexions — this i",
+    "responseTime": "Contact via website or email — known for thorough, responsive pre-planning commu",
+    "bookingLead": "Award-winning team with dual-market presence — reach out early, especially for l",
+    "travelFee": "Serves DC, Northern Virginia, Maryland, and Hampton Roads — contact for location",
+    "teamSize": "Full team of multiple artists — can simultaneously cover lar",
+    "consult": "Contact via website to discuss party size, services, and to access the BFF clien",
+    "plannerRating": 5,
+    "plannerNotes": "Best Face Forward is one of the most thoughtfully built wedding beauty teams in the DMV market — and the origin story explains why. Founders Kara and her mom Susie went through a wedding themselves, couldn't find a reliable one-stop team, and built t",
+    "plannerTags": [
+      "Diverse Skin Tone Expertise",
+      "Full Team — Hair + Makeup + Grooming",
+      "Large Party Specialist",
+      "Award-Winning Luxury Service",
+      "Founded by a Bride"
+    ],
+    "availability": "Contact for 2026 & 2027 availability — large party bookings especially encouraged to plan early",
+    "blogTag": "best-face-forward-hair-makeup",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "elegant",
+        "modern",
+        "organic"
+      ],
+      "cultural": [
+        "south_asian",
+        "multicultural"
+      ],
+      "budget": [
+        "moderate",
+        "upscale",
+        "luxury"
+      ],
+      "priority": [
+        "photos",
+        "cultural"
+      ]
+    },
+    "quote": {
+      "text": "The artists had no issue with hair texture and darker complexions where another vendor had failed us. We felt beautiful and confident all night.",
+      "attr": "Nicole — via website"
+    },
+    "portfolio": []
+  },
+  {
+    "id": 23,
+    "name": "Signature Sweets by Amanda",
+    "category": "Wedding Cakes & Desserts",
+    "location": "Warrenton, VA · Serving the DC Metro Area",
+    "image": "https://images.unsplash.com/photo-1535254973040-607b474cb50d?w=900&q=80",
+    "contact": {
+      "phone": "Contact via website",
+      "email": "Contact via website",
+      "website": "https://www.signaturesweetsbyamanda.com",
+      "instagram": "@signaturesweetsbyamanda",
+      "address": "Based in Warrenton, VA — serving the DC metro area"
+    },
+    "hours": "By appointment — contact via website for wedding inquiries and custom orders",
+    "established": "16+ years of dessert craftsmanship — Virginia wedding cake b",
+    "services": [
+      "Custom wedding cakes — designed and built to your vision",
+      "Dessert bars and dessert tables for weddings and events",
+      "Custom specialty orders via ten-page dessert menu",
+      "Ready-to-order cakes and desserts from online store",
+      "Nationwide shipping available for select items"
+    ],
+    "specialties": [
+      "230+ five-star reviews — one of the most reviewed dessert vendors in the directory",
+      "16+ years of experience crafting wedding cakes and celebration desserts",
+      "Beautiful cakes that taste even better than they look — the stated and proven standard",
+      "Perfect cake-to-filling ratio: moist, flavorful, and balanced — never dry or sicken-sweet"
+    ],
+    "pricing": {
+      "minimum": "Contact via website for wedding cake and custom order pricing; browse online store for ready-to-order pricing",
+      "average": "Custom wedding cake and dessert bar pricing based on guest count, design complexity, and selections — submit a wedding inquiry via website",
+      "deposit": "Contact to confirm",
+      "note": "Two ordering paths: ready-to-order from the online store (select items ship nationwide or available "
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "All Celebrations",
+      "Custom Flavors"
+    ],
+    "culturalNotes": "Amanda's collaborative, vision-first approach and ten-page customizable dessert menu make Signature Sweets adaptable to celebrations of any background",
+    "responseTime": "Personable and responsive — Amanda's bubbly, collaborative personality is consis",
+    "bookingLead": "16 years of reputation in the DC metro market — reach out early for peak wedding",
+    "travelFee": "Based in Warrenton, VA — delivers across the DC metro area; nationwide shipping ",
+    "teamSize": "Small locally owned business with a detail-oriented team; Am",
+    "consult": "Submit a wedding inquiry via website to begin the cake and dessert design consul",
+    "plannerRating": 4.9,
+    "plannerNotes": "Signature Sweets by Amanda earns her reputation the old-fashioned way: 230 five-star reviews over 16 years. That kind of sustained review record does not happen without consistently delivering exactly what couples are promised — and in wedding cakes,",
+    "plannerTags": [
+      "230+ Five-Star Reviews",
+      "16+ Years Experience",
+      "Moist & Balanced — Never Dry",
+      "Ten-Page Dessert Menu",
+      "Full Dessert Bar Design"
+    ],
+    "availability": "Contact via website for 2026 & 2027 wedding availability — submit wedding inquiry for custom cake consultations",
+    "blogTag": "signature-sweets-by-amanda",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "elegant",
+        "organic",
+        "modern"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 24,
+    "name": "Fluffy Thoughts Cakes",
+    "category": "Wedding Cakes & Desserts",
+    "location": "McLean, VA · Serving the DC Metro Area",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=900&q=80",
+    "contact": {
+      "phone": "(703) 942-5538",
+      "email": "customerservice@fluffythoughts.com",
+      "website": "https://fluffythoughts.com",
+      "instagram": "@fluffythoughtscakes",
+      "address": "6257 Old Dominion Drive, Suite B, McLean, VA 22101"
+    },
+    "hours": "Mon–Fri 9am–3pm · Sat 9am–12pm · Sun closed · Wedding orders by appointment",
+    "established": "Founded 2000 — Fairfax County's most celebrated wedding cake",
+    "services": [
+      "Custom wedding cakes — artistic and sculptural designs",
+      "Tiered wedding cakes with custom florals, stenciling, and sugar work",
+      "Cupcakes and mini cupcakes",
+      "Cookies and brownies",
+      "Croquembouche"
+    ],
+    "specialties": [
+      "Featured on Food Network's BEST in SHOW: Cakes — television-level artistic recognition",
+      "Named to Martha Stewart's Top Pastry Pros list",
+      "617 WeddingWire reviews with 4.8 rating — one of the highest review counts of any NoVA bakery",
+      "Owner Lara Halabi trained at L'Academie de Cuisine and studied with world-renowned cake designer Col"
+    ],
+    "pricing": {
+      "minimum": "Contact for current wedding cake pricing — pricing comparable to or slightly less than other DC-area bakeries per client reviews",
+      "average": "Custom pricing based on tier count, guest count, design complexity, and flavor selection; contact for a quote",
+      "deposit": "Contact to confirm",
+      "note": "Clients note pricing is competitive and comparable to — or slightly less than — other DC-area bakeri"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "Western",
+      "Custom Designs",
+      "All Celebrations"
+    ],
+    "culturalNotes": "Fluffy Thoughts' art-forward approach and fully custom design process can incorporate cultural motifs, traditional elements, or unique concepts specif",
+    "responseTime": "Responsive by phone and email throughout the planning process — clients consiste",
+    "bookingLead": "One of the most in-demand bakeries in Fairfax County — reach out early for peak ",
+    "travelFee": "Based in McLean; delivers to venues across the DC metro area — confirm delivery ",
+    "teamSize": "Owner-operated with team of bakers and decorators; Lara pers",
+    "consult": "Take-home tasting box available to taste flavors before booking; visit storefron",
+    "plannerRating": 5,
+    "plannerNotes": "Fluffy Thoughts Cakes is the kind of bakery that ends up in couples' wedding recaps years later — not just as 'we got a great cake' but as 'the Apple Orchard flavor was the thing our guests talked about all night.' Lara Halabi has been doing this sin",
+    "plannerTags": [
+      "Food Network BEST in SHOW: Cakes",
+      "Martha Stewart Top Pastry Pros",
+      "617 WeddingWire Reviews",
+      "Take-Home Tasting Box",
+      "Seasonal Flavor Specialties"
+    ],
+    "availability": "Contact for 2026 & 2027 wedding availability — peak dates fill in advance; walk-in during store hours or contact for wedding consultation",
+    "blogTag": "fluffy-thoughts-cakes",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "elegant",
+        "modern",
+        "organic"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "design"
+      ]
+    },
+    "quote": {
+      "text": "The Apple Orchard was a crowd favorite — it made our wedding cake fun and memorable. The frosting had the perfect amount of sweetness.",
+      "attr": "Bride, fall wedding — via WeddingWire"
+    },
+    "portfolio": []
+  },
+  {
+    "id": 25,
+    "name": "Furever & Fur Always",
+    "category": "Wedding Day Dog Care",
+    "location": "Maryland · DC · Virginia · Nationwide",
+    "image": "https://images.unsplash.com/photo-1587300003388-59208cc962cb?w=900&q=80",
+    "contact": {
+      "phone": "Contact via website",
+      "email": "pups@fureverandfuralways.com",
+      "website": "https://fureverandfuralways.com",
+      "instagram": "@fureveralways",
+      "address": "Serving MD, DC, VA, and nationwide — first 60 miles of travel included"
+    },
+    "hours": "By appointment — contact via website to inquire for your wedding date",
+    "established": "Wedding day dog care service serving the MD/DC/VA area and n",
+    "services": [
+      "Safe transportation — pickup from home, to venue, and back",
+      "Wedding attire assistance — dressing your pup in their special outfit",
+      "Photo assistance — handler stands behind photographer with treats and squeaky to",
+      "Ceremony support — walking pup down the aisle, standing by during vows in case t",
+      "Full-day dedicated care — 100% attention on your dog throughout the event"
+    ],
+    "specialties": [
+      "The only dedicated wedding day dog care service in the directory — a genuinely unique category",
+      "16,000+ Instagram followers — largest social following of any specialty vendor in the directory",
+      "Pre-wedding pawsultation questionnaire and meet-and-greet to understand your dog's personality",
+      "Treats and squeaky toys behind the photographer — the secret to getting perfect dog photos"
+    ],
+    "pricing": {
+      "minimum": "Pearl Pup (up to 2 hours) from $285",
+      "average": "Crystal Canine up to 3 hrs $380 · Diamond Dog up to 4 hrs $475 · Royal Retriever up to 5 hrs $570 · Platinum Pooch up to 6 hrs $665",
+      "deposit": "Contact to confirm",
+      "note": "Pricing is per dog — additional pets increase the rate. All packages include transportation, photo a"
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "LGBTQ+ Affirming",
+      "Inclusive"
+    ],
+    "culturalNotes": "Furever & Fur Always serves couples of all backgrounds and explicitly states their team is fur all — LGBTQ+ affirming and inclusive. Their service ada",
+    "responseTime": "Contact via email or website inquiry; known for warm and responsive communicatio",
+    "bookingLead": "Nationwide team with regional handlers — reach out early to confirm availability",
+    "travelFee": "First 60 miles of travel included in all packages; $0.75/mile beyond that — conf",
+    "teamSize": "Multi-person team with handlers in multiple locations across",
+    "consult": "Pre-wedding pawsultation questionnaire and in-person meet-and-greet with your do",
+    "plannerRating": 5,
+    "plannerNotes": "Furever & Fur Always solves a problem that no other vendor in this directory addresses: couples who want their dog at the wedding but have no one to actually manage them. The standard solution — asking a family member or friend to wrangle the dog — f",
+    "plannerTags": [
+      "The Only Wedding Dog Care Service",
+      "Photo Assistance Included",
+      "Transportation to & from Venue",
+      "Pre-Wedding Meet & Greet",
+      "LGBTQ+ Affirming"
+    ],
+    "availability": "Contact via website or email to inquire about your wedding date and location",
+    "blogTag": "furever-and-fur-always",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "boho",
+        "classic",
+        "modern"
+      ],
+      "cultural": [],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "vendors"
+      ]
+    },
+    "quote": {
+      "text": "THE ABSOLUTE BEST VENDOR that we never knew we needed or existed. We could not be more grateful.",
+      "attr": "Bride — via website review"
+    },
+    "portfolio": []
+  },
+  {
+    "id": 26,
+    "name": "Bridal By Jaz",
+    "category": "Hair & Makeup",
+    "location": "DC · Maryland · Virginia",
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=900&q=80",
+    "contact": {
+      "phone": "+1 (240) 667-6904",
+      "email": "bridalbyjaz@gmail.com",
+      "website": "https://bridalbyjaz.square.site",
+      "instagram": "@bridalbyjaz",
+      "address": "Serving DC, Maryland, and Virginia — on-site mobile service"
+    },
+    "hours": "By appointment — contact via email or website",
+    "established": "Founded January 2020 — luxury on-site bridal hair and makeup",
+    "services": [
+      "Bridal hair and makeup — full glam for the bride",
+      "Engagement shoot hair and makeup looks",
+      "Unlimited wedding party packages — full bridal party coverage",
+      "On-site mobile service — comes to your getting-ready location",
+      "Wedding day timeline support included with every booking"
+    ],
+    "specialties": [
+      "Luxury on-site service — comes to you, no salon travel on your wedding morning",
+      "Timeline support included — helps coordinate the getting-ready schedule so everything runs on time",
+      "Dedicated team for unlimited packages — multiple artists working simultaneously for large parties",
+      "Stress-free, camera-ready glam philosophy — the goal is beautiful results without the wedding mornin"
+    ],
+    "pricing": {
+      "minimum": "Bride Only from $425",
+      "average": "Bride + 3 $1,250 · Unlimited (no assist) $2,050 · Unlimited (with assist) $2,450",
+      "deposit": "Contact to confirm",
+      "note": "Four clear package tiers: Bride Only $425, Bride + 3 $1,250, Unlimited without assistant $2,050, Unl"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "All Skin Tones",
+      "Multicultural",
+      "All Celebrations"
+    ],
+    "culturalNotes": "Bridal By Jaz's luxury, camera-ready approach and mobile service model serve brides of all backgrounds across the diverse DC, MD, and VA wedding marke",
+    "responseTime": "Contact via email or website; personable and responsive communication",
+    "bookingLead": "Founded 2020 with growing reputation in the DC/MD/VA market — reach out early fo",
+    "travelFee": "On-site mobile service throughout DC, Maryland, and Virginia — comes to your ven",
+    "teamSize": "Owner-led with dedicated team for larger packages — Jaz pers",
+    "consult": "Contact via website or email to discuss your wedding party size, vision, and pac",
+    "plannerRating": 4.8,
+    "plannerNotes": "Bridal By Jaz delivers exactly what wedding morning needs: luxury, camera-ready glam that comes to you, with timeline support already built in. The on-site model eliminates one of the biggest morning stressors — coordinating salon arrivals on a sched",
+    "plannerTags": [
+      "On-Site Mobile Service",
+      "Timeline Support Included",
+      "Clear Package Pricing",
+      "Bride-Only Through Full Party",
+      "Camera-Ready Luxury Glam"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact for availability and package details",
+    "blogTag": "bridal-by-jaz",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "classic",
+        "elegant",
+        "modern",
+        "organic"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "photos"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 27,
+    "name": "Maxi & Co",
+    "category": "Wedding Officiant",
+    "location": "Northern Virginia · DMV",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=900&q=80",
+    "contact": {
+      "phone": "571-337-1800",
+      "email": "maxiandcollc@gmail.com",
+      "website": "https://www.maxiandco.com",
+      "instagram": "@maxiandco",
+      "address": "Serving Northern Virginia and the DMV"
+    },
+    "hours": "By appointment — contact via website or email",
+    "established": "Civil celebrant and wedding officiant serving the DMV",
+    "services": [
+      "Traditional wedding ceremonies — customizable to your story, style, and vision",
+      "Elopements — intimate and official, just the three of you or a small close group",
+      "Marriage license signings — The Signature Moment: want your friend to officiate ",
+      "Ceremony customization — vows, structure, and tone built around your specific re",
+      "Pre-ceremony consultation to plan your ceremony flow and ease nerves"
+    ],
+    "specialties": [
+      "The 'ceremony hype woman' — Clarice brings positive energy, empathy, and warm presence to every coup",
+      "Calm where you need it, joy where it counts — balances nerves with celebration in real time",
+      "Marriage License Signing service fills a genuine gap: couples who want a friend to officiate can hir",
+      "Three distinct service tiers named for the moment: The Signature Moment, The Quiet Moment, The Grand"
+    ],
+    "pricing": {
+      "minimum": "Contact for current ceremony pricing",
+      "average": "Contact via website or email to discuss package options — pricing based on ceremony type and scope",
+      "deposit": "Contact to confirm",
+      "note": "Three service tiers available: The Signature Moment (marriage license signing, for couples whose fri"
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Western",
+      "Multicultural",
+      "All Celebrations",
+      "LGBTQ+ Welcoming",
+      "Inclusive"
+    ],
+    "culturalNotes": "Clarice's genuine love of travel and experiencing diverse cultures informs her ceremony approach — she honors each couple's unique story and backgroun",
+    "responseTime": "Contact via email or phone — warm and personally responsive communication style",
+    "bookingLead": "Contact early for peak spring and fall wedding dates; elopements and smaller cer",
+    "travelFee": "Based in Northern Virginia; serves the DMV — contact to confirm coverage for you",
+    "teamSize": "Owner-operated — Clarice personally officiates every ceremon",
+    "consult": "Contact via website or email to connect and begin planning your ceremony",
+    "plannerRating": 4.8,
+    "plannerNotes": "Maxi & Co fills the one category that was conspicuously missing from the vendor directory: a dedicated wedding officiant. Clarice's positioning as the 'ceremony hype woman' is not just a tagline — it describes a specific and genuinely valuable servic",
+    "plannerTags": [
+      "Ceremony Hype Woman",
+      "Marriage License Signing Service",
+      "Friend-Officiant Legal Support",
+      "Elopements & Intimate Ceremonies",
+      "Traditional Customized Ceremonies"
+    ],
+    "availability": "Now Booking 2026 & 2027 — contact for availability and to begin planning your ceremony",
+    "blogTag": "maxi-and-co-officiant",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "classic",
+        "boho",
+        "organic"
+      ],
+      "cultural": [
+        "multicultural"
+      ],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "vendors",
+        "cultural"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 28,
+    "name": "Heartwork Spiritual Services",
+    "category": "Wedding Officiant",
+    "location": "Northern Virginia · DMV (100-mile DC radius)",
+    "image": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=900&q=80",
+    "contact": {
+      "phone": "+1 734-560-2440",
+      "email": "natalie@heartworkspirit.com",
+      "website": "https://www.heartworkspirit.com",
+      "instagram": "@heartworkspirit",
+      "address": "Serving all areas within 100 miles of Washington DC"
+    },
+    "hours": "By appointment — contact via email or phone",
+    "established": "Ordained interspiritual minister and Life-Cycle Celebrant",
+    "services": [
+      "Custom wedding ceremonies — crafted to reflect your personal beliefs, values, and vision with no traditional constraints",
+      "Elopements and intimate ceremonies — meaningful and deeply personal for small gatherings",
+      "Weekday elopements and marriage license signings — accessible entry point for couples seeking intentional ceremony",
+      "Tarot reading services — 2-hour sessions for couples, bookable standalone or bundled with ceremony",
+      "Tarot + ceremony bundles — discounted combination for couples wanting both services",
+      "Interspiritual and non-religious ceremonies — honoring belief systems of all kinds without dogma"
+    ],
+    "specialties": [
+      "Ordained interspiritual minister — trained to honor all belief systems, spiritual paths, and secular worldviews equally and with genuine reverence",
+      "Life-Cycle Celebrant certification — professional training in creating ceremonies that mark meaningful transitions with intention and care",
+      "Tarot as ceremony enhancement — a unique offering that adds a reflective, symbolic dimension to the wedding experience for spiritually curious couples",
+      "Deeply collaborative process — works closely with couples to ensure the ceremony reflects who they actually are, not a template",
+      "Community-centered approach — creates ceremonies where guests feel genuinely present and witnessing, not just watching",
+      "No tradition for tradition's sake — a truly unscripted perspective that results in ceremonies couples describe as feeling completely like themselves"
+    ],
+    "pricing": {
+      "minimum": "Starting at $250 (weekday elopement or license signing)",
+      "average": "$800 for a full custom wedding ceremony · Tarot from $500 for 2 hours ($100/hr additional)",
+      "deposit": "Contact to confirm deposit structure",
+      "paymentPlans": "Contact to discuss",
+      "note": "Tarot reading services can be bundled with a wedding ceremony for a discounted rate — ideal for couples who want both a meaningful ceremony and a reflective ritual experience."
+    },
+    "culturalScore": 5,
+    "culturalBadges": [
+      "Interfaith",
+      "Non-Religious",
+      "Multicultural",
+      "LGBTQ+ Welcoming",
+      "Inclusive",
+      "All Celebrations"
+    ],
+    "culturalNotes": "As an interspiritual minister, Natalie is specifically trained to hold space for all belief systems — from deeply spiritual to entirely secular, from single-faith to blended traditions. An excellent choice for interfaith couples, LGBTQ+ couples, and anyone who has felt unseen by traditional ceremony formats.",
+    "responseTime": "Contact via email at natalie@heartworkspirit.com or phone",
+    "bookingLead": "New business — book early for 2025 and 2026 dates while calendar is open",
+    "travelFee": "Serves all areas within 100 miles of Washington DC — covers all of Northern Virginia and the broader DMV",
+    "teamSize": "Owner-operated — Natalie personally officiates and performs all services",
+    "consult": "Contact via email or phone to begin crafting your ceremony",
+    "plannerRating": 4.7,
+    "plannerNotes": "Heartwork fills a real gap in the NoVA market — a ceremony officiant who leads with intention over tradition. Natalie's interspiritual training means she can hold space for couples whose beliefs don't fit neatly into any single box, which describes a lot of our couples. The tarot bundle is a genuinely creative addition that will appeal to the spiritually curious. New business as of late 2025, so we're watching with enthusiasm.",
+    "plannerTags": [
+      "Interspiritual Minister",
+      "Life-Cycle Celebrant",
+      "Non-Traditional Ceremonies",
+      "Tarot + Ceremony Bundle",
+      "Interfaith & Inclusive",
+      "Belief-Centered Approach"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact early while calendar is open",
+    "blogTag": "heartwork-spiritual-services",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "boho",
+        "modern"
+      ],
+      "cultural": [
+        "interfaith",
+        "multicultural",
+        "none"
+      ],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "vendors",
+        "cultural"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 29,
+    "name": "Styled Memories Content",
+    "category": "Wedding Content Creation",
+    "location": "Northern Virginia · DMV · East Coast",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=900&q=80",
+    "contact": {
+      "phone": "+1 434-444-3197",
+      "email": "thestyledmemories@gmail.com",
+      "website": "https://thestyledmemoriescontent.com",
+      "instagram": "@styledmemoriescontent",
+      "address": "Serving the DMV, Virginia, North Carolina, and the full East Coast"
+    },
+    "hours": "By appointment — contact via website or email",
+    "established": "Founded April 2022 — evolved from styled shoot company into full wedding planning, design, and content creation",
+    "services": [
+      "Wedding content creation — candid, raw, trend-focused footage captured for social media and real-time storytelling",
+      "Behind-the-scenes coverage — moments your photographer and videographer aren't positioned to catch",
+      "Social media reels and TikTok-ready content with fast turnaround for instant sharing",
+      "Wedding planning and design — full-service planning with a high-end, refined approach",
+      "Wedding design services — bringing your visual vision to life with elegance and intention",
+      "Styled shoot production — the company's original specialty and ongoing offering"
+    ],
+    "specialties": [
+      "Content creation that complements — not competes with — your photographer and videographer by filling the candid gaps",
+      "Fast turnaround delivery designed for couples who want to share their day on social media immediately after the wedding",
+      "Style-forward coverage built for TikTok and Instagram Reels — trend-conscious and visually sharp",
+      "Multifaceted offering: one team that can handle content creation, planning, and design so fewer moving parts on your wedding day",
+      "Origin in styled shoots means a strong visual eye and deep understanding of how a wedding day should look on camera",
+      "Honest about what content creation is — a complement to traditional photo and video, not a replacement"
+    ],
+    "pricing": {
+      "minimum": "See full pricing at thestyledmemoriescontent.com",
+      "average": "All current pricing listed on website — contact for package details and availability",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "Pricing for wedding content creation, planning, and design services is listed on their website. Contact directly to discuss what combination of services fits your day."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "Multicultural",
+      "LGBTQ+ Welcoming"
+    ],
+    "culturalNotes": "Styled Memories' mission centers on bringing any couple's vision to life with elegance and intention — their approach adapts to your story, style, and background.",
+    "responseTime": "Contact via website or email for availability and pricing",
+    "bookingLead": "Active calendar — book early for peak spring and fall dates; East Coast travel availability should be confirmed in advance",
+    "travelFee": "Serves DMV, Virginia, North Carolina, and the full East Coast — contact to confirm travel fees for your location",
+    "teamSize": "Contact to confirm team size and staffing for your event",
+    "consult": "Contact via website or email to discuss your vision and which services are the right fit",
+    "plannerRating": 4.7,
+    "plannerNotes": "Wedding content creation is genuinely one of the most underutilized categories in the NoVA market right now. Couples who invest in a photographer and videographer still end up with gaps — the getting-ready chaos, the candid moments between formal shots, the behind-the-scenes that tell the real story. Styled Memories fills that gap specifically. Their background in styled shoots gives them a visual sensibility that most content creators don't have, and the fact that they also offer planning and design means they understand the full picture of a wedding day. The pricing is on their website rather than quoted here, so send couples directly to confirm current rates.",
+    "plannerTags": [
+      "Wedding Content Creation",
+      "Social Media Reels & TikTok",
+      "Behind-the-Scenes Coverage",
+      "Wedding Planning & Design",
+      "East Coast Travel Available",
+      "Fast Turnaround Delivery"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact for availability across the DMV and East Coast",
+    "blogTag": "styled-memories-content-creation",
+    "quizTags": {
+      "style": [
+        "modern",
+        "romantic",
+        "organic",
+        "boho",
+        "grand"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "photos",
+        "design",
+        "vendors"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 30,
+    "name": "Nova Reign Beauty",
+    "category": "Hair & Makeup",
+    "location": "Silver Spring & Laurel, MD · DMV · Mid-Atlantic",
+    "image": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=900&q=80",
+    "contact": {
+      "phone": "+1 240-917-4034",
+      "email": "novareignbeauty@gmail.com",
+      "website": "https://ejlashandbeauty.glossgenius.com",
+      "instagram": "@novareignbeauty",
+      "address": "In-studio: Silver Spring, MD and Laurel, MD · Travel throughout the DMV"
+    },
+    "hours": "By appointment — book via website or contact directly",
+    "established": "Founded July 2020 — specializing in soft glam and timeless bridal makeup",
+    "services": [
+      "Bridal makeup — $150 per person for bride, quinceañera, or wedding party members; no minimum or maximum party size",
+      "Complimentary bridal trial included with every wedding booking — $135 for trial-only appointments",
+      "Soft Glam — $135 (in-studio or with travel)",
+      "Full Glam — $145 (in-studio or with travel)",
+      "In-studio appointments available in Silver Spring, MD and Laurel, MD",
+      "On-location travel services throughout the DMV area — travel fee starting at $45 for up to 30 miles, $1/mile beyond"
+    ],
+    "specialties": [
+      "Signature soft glam approach — timeless, wearable looks that enhance natural beauty rather than mask it",
+      "Transparent, accessible pricing with no hidden fees — bridal at $150/person flat with no party size minimums",
+      "Complimentary trial with every wedding booking — a genuine value that removes the guesswork from your final look",
+      "Trial credit incentive — book a trial first and then book 5+ people and $100 is credited back, making the trial effectively $35",
+      "Flexibility as a core value — works within each client's vision and budget with a genuinely stress-free approach",
+      "Self-taught from the ground up since 2020 — hands-on experience across diverse clients and occasions"
+    ],
+    "pricing": {
+      "minimum": "Soft Glam $135 · Full Glam $145 · Bridal $150/person",
+      "average": "Bridal party pricing at $150 per person flat — no minimum or maximum party size",
+      "deposit": "Contact to confirm deposit structure via website",
+      "paymentPlans": "Contact to discuss",
+      "note": "Complimentary trial included with wedding bookings. Trial-only: $135. If trial is booked first and results in a 5+ person wedding booking, $100 credits toward total (trial becomes effectively $35). Travel fee: $45 for up to 30 miles, $1/mile beyond."
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "All Celebrations",
+      "Multicultural",
+      "LGBTQ+ Welcoming",
+      "Inclusive"
+    ],
+    "culturalNotes": "Nova Reign Beauty has built experience with a diverse range of clients and occasions since 2020. Their soft glam specialty translates beautifully across skin tones and cultural aesthetics.",
+    "responseTime": "Book directly via website at ejlashandbeauty.glossgenius.com or contact via phone or email",
+    "bookingLead": "Book early for peak spring and fall wedding dates — complimentary trial should be scheduled several months before the wedding",
+    "travelFee": "Travel available throughout the DMV — $45 base fee for up to 30 miles, $1 per additional mile. Also serves Delaware and parts of Pennsylvania.",
+    "teamSize": "Owner-operated — contact for large party staffing availability",
+    "consult": "Book via website or contact directly to discuss your vision, confirm availability, and schedule your trial",
+    "plannerRating": 4.7,
+    "plannerNotes": "Nova Reign Beauty stands out in the NoVA makeup market for two things: genuinely transparent pricing and a complimentary trial that's actually included — not upsold. The $150/person flat rate for bridal with no party size minimums is a refreshing approach that removes the math anxiety from booking. Their soft glam specialty is exactly what most brides want: polished, camera-ready, and still recognizably themselves. The trial credit structure for 5+ person bookings is smart and client-friendly. Maryland-based with full DMV travel coverage makes them accessible for our Northern Virginia couples.",
+    "plannerTags": [
+      "Soft Glam Specialist",
+      "Transparent Pricing",
+      "Complimentary Trial Included",
+      "No Party Size Minimum",
+      "DMV Travel Available",
+      "Accessible Bridal Rates"
+    ],
+    "availability": "Now Booking 2025 & 2026 — book via website for fastest response",
+    "blogTag": "nova-reign-beauty-bridal-makeup",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "classic",
+        "boho",
+        "organic"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "vendors",
+        "photos"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 31,
+    "name": "Tinted Radiance LLC",
+    "category": "Bridal Beauty & Wellness",
+    "location": "Winchester, VA · Frederick County, VA",
+    "image": "https://images.unsplash.com/photo-1519415943484-9fa1873496d4?w=900&q=80",
+    "contact": {
+      "phone": "+1 540-212-9276",
+      "email": "alexandrahoxton@gmail.com",
+      "website": "https://tinted-radiance.square.site",
+      "instagram": "@tintedradiance",
+      "address": "Serving Winchester, VA and Frederick County, VA"
+    },
+    "hours": "By appointment — contact via website, email, or phone",
+    "established": "Founded March 2025 — luxury custom spray tanning for brides and special occasions",
+    "services": [
+      "Luxury custom spray tanning — fully personalized formula and tone matched to your skin",
+      "Original spray tan — 8 to 12 hour rinse at $47",
+      "Rapid rinse spray tan — faster development at $56",
+      "Mobile spray tanning — in-home or on-location service at $82",
+      "Add-on services — contact for current add-on menu and pricing",
+      "Bridal spray tanning — pre-wedding glow designed to photograph beautifully"
+    ],
+    "specialties": [
+      "Fully customized formula for every client — no one-shade-fits-all approach; tone is matched to your skin, undertone, and desired depth",
+      "Skin cancer awareness advocate — personally connected to skin cancer, passionate about helping women achieve a healthy glow safely without sun damage",
+      "Mobile service available — comes to your home, hotel, or venue so you can tan the morning of your wedding without leaving your getting-ready suite",
+      "Care and education built into every appointment — former educator and assistant principal brings a thoughtful, client-focused approach to every session",
+      "Founded from a deeply personal story of resilience — brings genuine empathy and intentionality to every client interaction",
+      "Accessible pricing with clear tiers — no hidden fees, straightforward menu"
+    ],
+    "pricing": {
+      "minimum": "Original Spray Tan (8–12 hr rinse): $47 · Rapid Rinse: $56 · Mobile: $82",
+      "average": "Most bridal clients book the rapid rinse or mobile service — $56 to $82 depending on location preference",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "Add-ons available at varying prices — contact or visit the website for the full current menu. Mobile service at $82 is ideal for wedding morning at your venue or hotel."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "Inclusive",
+      "LGBTQ+ Welcoming"
+    ],
+    "culturalNotes": "Tinted Radiance works with clients across skin tones and backgrounds with a fully customized approach — no single formula applied to everyone.",
+    "responseTime": "Contact via website, email, or phone for availability and booking",
+    "bookingLead": "New business as of March 2025 — book early for peak wedding season dates, especially for morning-of mobile appointments",
+    "travelFee": "Mobile service available throughout Winchester, VA and Frederick County, VA at $82 — contact to confirm your specific location",
+    "teamSize": "Owner-operated — Alexandra personally provides every service",
+    "consult": "Contact to book your appointment and discuss your desired look, skin tone, and event timing",
+    "plannerRating": 4.6,
+    "plannerNotes": "Tinted Radiance fills a real gap in the Shenandoah Valley and western NoVA market — a dedicated luxury spray tan artist who comes to you. Alexandra's story is genuinely compelling: she left a career as an assistant principal after a difficult personal journey to build something aligned with her values, and that intentionality shows in how she approaches every client. Her skin cancer background makes her a particularly credible voice on the 'healthy glow without sun damage' message, which resonates strongly with today's brides. The mobile service at $82 is a standout for wedding morning logistics — one less place a bride has to be before the big day. New as of 2025 and worth watching.",
+    "plannerTags": [
+      "Luxury Spray Tanning",
+      "Mobile Service Available",
+      "Skin Cancer Awareness",
+      "Custom Formula Per Client",
+      "Winchester & Frederick County",
+      "Wedding Morning Ready"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact early for peak season and mobile morning appointments",
+    "blogTag": "tinted-radiance-spray-tan",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "organic",
+        "grand",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "budget",
+        "moderate"
+      ],
+      "priority": [
+        "vendors",
+        "photos"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 32,
+    "name": "Melissa Cook Weddings",
+    "category": "Photography",
+    "location": "Leesburg, VA · DMV",
+    "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=900&q=80",
+    "contact": {
+      "phone": "+1 571-601-3904",
+      "email": "hello@melissacookweddings.com",
+      "website": "https://melissacookweddings.com",
+      "instagram": "@melissacookweddings",
+      "address": "Based in Leesburg, VA — serving the DMV"
+    },
+    "hours": "By appointment — contact via website or email",
+    "established": "Founded October 2020 — wedding photographer based in Leesburg, VA",
+    "services": [
+      "Full wedding day photography — 8 hours of coverage with two photographers",
+      "Complimentary engagement session included with every wedding booking",
+      "Online gallery delivery — full resolution images accessible and shareable",
+      "USB of all images included — physical backup of your complete wedding gallery",
+      "Wedding timeline planning — works directly with couples to build a realistic day-of timeline",
+      "DMV-wide coverage — serves Virginia, Maryland, and Washington DC"
+    ],
+    "specialties": [
+      "Timeline planning as a built-in service — Melissa helps couples architect their day so they actually make it to cocktail hour and stay present throughout",
+      "Two-photographer package included at the base rate — no upcharging for a second shooter; both angles covered from the start",
+      "Complimentary engagement session — built into the package so couples are comfortable in front of the camera before the wedding day",
+      "All-inclusive transparent pricing — $4,500 covers 8 hours, two photographers, engagement session, gallery, and USB with no hidden fees",
+      "Leesburg-based with deep NoVA roots — knows the venues, lighting, and logistics of the Northern Virginia market",
+      "Couples-first philosophy — the goal is for you to be genuinely present and involved at your own wedding, not chasing the photographer around"
+    ],
+    "pricing": {
+      "minimum": "$4,500 — 8 hours, two photographers, engagement session, online gallery, USB",
+      "average": "$4,500 all-inclusive package — contact for additional hours or custom coverage",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "The $4,500 package is genuinely all-inclusive: 8 hours of coverage, two photographers, a complimentary engagement session, full online gallery, and a USB of all images. No surprise line items."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "LGBTQ+ Welcoming",
+      "Multicultural"
+    ],
+    "culturalNotes": "Based in Leesburg and experienced across the NoVA venue landscape — contact to discuss experience with specific cultural traditions or ceremony formats.",
+    "responseTime": "Contact via website or email — hello@melissacookweddings.com",
+    "bookingLead": "Book 12+ months out for peak spring and fall dates in NoVA; Leesburg-area venues fill especially fast",
+    "travelFee": "Based in Leesburg, VA — serves the full DMV; contact to confirm travel fees outside the immediate area",
+    "teamSize": "Two photographers included in standard package — Melissa plus a second shooter",
+    "consult": "Contact via website or email to check availability and discuss your wedding vision and timeline",
+    "plannerRating": 4.8,
+    "plannerNotes": "Melissa Cook brings something most photographers don't lead with: a genuine commitment to helping couples build a wedding day timeline that actually works. That means you make it to cocktail hour, you have time to eat, and you're not being pulled away from your own reception for photos. It sounds obvious but it's rarer than it should be. The $4,500 all-in package — two photographers, engagement session, gallery, and USB — is strong value for the NoVA market where photography often starts at $4,000+ before any of those extras. Leesburg-based, so she knows the western NoVA venue corridor well.",
+    "plannerTags": [
+      "Timeline Planning Included",
+      "Two Photographers at Base Rate",
+      "Complimentary Engagement Session",
+      "All-Inclusive Pricing",
+      "Leesburg & NoVA Specialist",
+      "Couples-First Approach"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact early for peak season NoVA dates",
+    "blogTag": "melissa-cook-weddings-photography",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "classic",
+        "modern",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "upscale"
+      ],
+      "priority": [
+        "photos",
+        "vendors",
+        "nature"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 33,
+    "name": "The Easy Pour",
+    "category": "Mobile Bar & Bartending",
+    "location": "Northern Virginia · DMV",
+    "image": "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=900&q=80",
+    "contact": {
+      "phone": "+1 571-408-6181",
+      "email": "info@theeasypour.com",
+      "website": "https://www.theeasypour.com",
+      "instagram": "@theeasypour",
+      "address": "Serving Northern & Central VA, Maryland, and Washington DC"
+    },
+    "hours": "By appointment — contact via website or email",
+    "established": "Founded June 2020 — NoVA's most established mobile bar company with the largest fleet of unique bar options",
+    "services": [
+      "Beer and wine service — base price plus per person cost, scalable for any event size",
+      "Beer, wine, and 2 signature cocktails service — elevated package with custom craft cocktails",
+      "Beer, wine, 2 signature cocktails, and full mixers service — premium full-bar experience",
+      "Mocktail service — non-alcoholic craft options for dry weddings or designated driver setups",
+      "Horse trailer bar — converted vintage horse trailer serving as a full working bar",
+      "Camper bar — converted camper bar for a retro, eye-catching setup",
+      "Motorcycle and sidecar bar — a showstopper setup unlike anything else in the NoVA market",
+      "Variety of smaller bar options — flexible setups for intimate ceremonies or cocktail hours"
+    ],
+    "specialties": [
+      "Largest fleet of unique bar options in NoVA — camper bar, horse trailer bar, motorcycle and sidecar, and multiple smaller setups all available",
+      "Founded in 2020 — one of the most established mobile bar companies in Northern Virginia with years of wedding experience most competitors can't match",
+      "Award-winning service — regularly recognized in industry awards and published in multiple wedding and lifestyle magazines",
+      "Scalable per-person pricing model — base price plus per person cost means the service is accessible for intimate weddings and large receptions alike",
+      "The bar IS the décor — each unique bar unit doubles as a statement piece and photo backdrop that guests gravitate toward",
+      "Craft cocktail expertise — handcrafted signature cocktails designed around the couple's palate and wedding aesthetic"
+    ],
+    "pricing": {
+      "minimum": "Three service tiers with base price + per person cost — contact for current rates",
+      "average": "Scalable pricing model: base fee plus per guest rate makes it affordable for 50-person events and large receptions alike",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "Three tiers: (1) Beer & wine, (2) Beer, wine + 2 signature cocktails, (3) Beer, wine + 2 signature cocktails + full mixers. Each has a base price plus a per-person rate — contact for current pricing by tier and guest count."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "LGBTQ+ Welcoming",
+      "Multicultural"
+    ],
+    "culturalNotes": "The Easy Pour serves all event styles and can accommodate cultural beverage traditions, dry wedding setups with mocktails, and custom signature cocktail menus that reflect the couple's background and taste.",
+    "responseTime": "Contact via website or email — info@theeasypour.com",
+    "bookingLead": "One of the most-booked mobile bar companies in NoVA — book 12+ months out for peak spring and fall dates; unique bar units especially the horse trailer and motorcycle sidecar go fast",
+    "travelFee": "Serves Northern and Central Virginia, Maryland, and DC — contact to confirm travel fees for your specific venue location",
+    "teamSize": "Professional bartending staff — contact to confirm crew size for your event",
+    "consult": "Contact via website or email to select your bar unit, choose your service tier, and get a quote for your guest count",
+    "plannerRating": 4.9,
+    "plannerNotes": "The Easy Pour is the mobile bar company we recommend first in NoVA — full stop. They've been operating since 2020, which in the mobile bar world is an eternity, and they've built the most impressive fleet of unique bar setups in the region. The horse trailer bar and motorcycle sidecar in particular are statement pieces that guests talk about for years. The per-person pricing model is genuinely smart and fair — you're not penalized for having a smaller wedding. Award-winning, magazine-published, and consistently excellent. If your venue allows an outside bar and you want something memorable, this is the call.",
+    "plannerTags": [
+      "Largest Fleet in NoVA",
+      "Horse Trailer Bar",
+      "Motorcycle Sidecar Bar",
+      "Award-Winning Service",
+      "Magazine Published",
+      "Scalable Per-Person Pricing"
+    ],
+    "availability": "Now Booking 2025 & 2026 — unique bar units book fast; contact early to secure your preferred setup",
+    "blogTag": "the-easy-pour-mobile-bar",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "boho",
+        "organic",
+        "modern",
+        "grand"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "vendors",
+        "design",
+        "photos"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 34,
+    "name": "Whiskery",
+    "category": "Wedding Cakes & Desserts",
+    "location": "Northern Virginia · DMV",
+    "image": "https://images.unsplash.com/photo-1535254973040-607b474cb50d?w=900&q=80",
+    "contact": {
+      "phone": "+1 571-261-8211",
+      "email": "joycevenerick@gmail.com",
+      "website": "https://thelax.my.canva.site/whiskery",
+      "instagram": "@whiskery",
+      "address": "Serving the DMV area — Northern Virginia based"
+    },
+    "hours": "By appointment — contact via email or phone",
+    "established": "Founded March 2010 — 14+ years as a premium cake artist in Northern Virginia (formerly Cakesbyjvenerick)",
+    "services": [
+      "Luxury wedding cakes — fully custom designed to complement the couple's color palette and overall event aesthetic",
+      "Premium custom cakes — for birthdays, milestones, and special celebrations",
+      "Cupcakes — custom flavors and designs to match your wedding theme",
+      "Dessert catering — full dessert table service for weddings and events",
+      "Event-design-informed cake design — Joyce's background in branding and event design through The Lax Creatives informs every cake as part of the full experience"
+    ],
+    "specialties": [
+      "14+ years of cake artistry — one of the most experienced custom cake designers in Northern Virginia, with deep roots in the DMV wedding market",
+      "Event design background sets her apart — as part of The Lax Creatives, Joyce approaches each cake as a design element of the entire event, not just a dessert",
+      "Color palette and aesthetic matching — every cake is designed to feel like a natural extension of the wedding's visual story, not an afterthought",
+      "Truly custom from concept to creation — no off-the-shelf designs; each cake is built around the specific couple, celebration, and vision",
+      "Specialty techniques and intricate decorative elements available for couples who want a showstopping centerpiece cake",
+      "Fourteen years of client trust — from family beginnings to a full premium cake business, built entirely on referrals and repeat clients"
+    ],
+    "pricing": {
+      "minimum": "Custom cakes starting at $200+ — pricing based on size, complexity, and design detail",
+      "average": "Wedding cake pricing varies significantly by tier count, specialty techniques, and decorative intricacy — contact for a custom quote",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "Because every cake is uniquely designed, pricing is fully custom. Starting point is $200+ for custom cakes; wedding cakes increase based on complexity, specialty techniques, and decorative elements. Contact Joyce directly for a quote based on your vision."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "Multicultural",
+      "LGBTQ+ Welcoming"
+    ],
+    "culturalNotes": "With 14 years of experience serving a diverse DMV clientele, Whiskery has created cakes for celebrations of all cultural backgrounds and traditions. Custom design means the cake reflects your specific story.",
+    "responseTime": "Contact via email at joycevenerick@gmail.com or phone to discuss your vision and get a quote",
+    "bookingLead": "Book early for peak spring and fall wedding dates — custom cake design consultations should be scheduled several months in advance",
+    "travelFee": "Serves the full DMV area — contact to confirm delivery fees for your venue location",
+    "teamSize": "Owner-operated — Joyce personally designs and creates every cake",
+    "consult": "Contact to schedule a design consultation and tasting — bring your color palette, inspiration images, and vision",
+    "plannerRating": 4.8,
+    "plannerNotes": "Whiskery — formerly Cakesbyjvenerick — is one of the most tenured cake artists in the NoVA market. Fourteen years is a long time in this industry, and Joyce has built her reputation entirely on the quality of her work and the trust of her clients. What genuinely sets her apart is her background in event design through The Lax Creatives — she thinks about the cake as part of the full visual experience of the wedding, which means the final product actually belongs in the room rather than just sitting on a table. The custom-first, no-template approach is what couples who care about their cake need. Starting at $200+ makes her accessible, and the ceiling is wherever your vision takes you.",
+    "plannerTags": [
+      "14+ Years Experience",
+      "Luxury Wedding Cakes",
+      "Event Design Background",
+      "Fully Custom Every Cake",
+      "Dessert Catering Available",
+      "DMV Veteran Cake Artist"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact early for peak season dates and custom design lead time",
+    "blogTag": "whiskery-wedding-cakes-nova",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "grand",
+        "modern",
+        "classic",
+        "organic"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale",
+        "luxury"
+      ],
+      "priority": [
+        "design",
+        "photos",
+        "vendors"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 35,
+    "name": "Beyoutify by Gisselle Ruby",
+    "category": "Hair & Makeup",
+    "location": "DMV — DC, Maryland & Virginia",
+    "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=900&q=80",
+    "contact": {
+      "phone": "+1 240-421-1473",
+      "email": "beyoutifybygisselleruby@gmail.com",
+      "website": "https://www.beyoutifybygisselleruby.com",
+      "instagram": "@beyoutifybygisselleruby",
+      "address": "Serving DC, Maryland, and Virginia"
+    },
+    "hours": "By appointment — contact via email or phone",
+    "established": "Founded November 2023 — certified bridal makeup artist specializing in soft glam",
+    "services": [
+      "Bridal makeup — $165 for the bride; fully customized soft glam look",
+      "Bridal party makeup — $95 per person for bridesmaids and wedding party members",
+      "Junior bridal party makeup — $95 per person",
+      "Event glam — $95 for special occasions, engagement sessions, and formal events",
+      "Professional bridal consultations — to plan your wedding day look and confirm timing"
+    ],
+    "specialties": [
+      "Soft glam specialist — a timeless, elevated look that photographs beautifully and holds throughout the day",
+      "Certified makeup artist with formal training in both artistry and sanitation practices — not self-taught",
+      "Accessible, transparent bridal pricing — $165 for the bride and $95 per party member with no hidden fees",
+      "Latina-owned small business — Gisselle is first-generation Peruvian American and brings warmth, personal connection, and genuine passion to every client",
+      "Founded during a college entrepreneurship course — built from the ground up with intentionality and professional certification to back it up",
+      "Mission to uplift women — every appointment is about helping clients feel like their best, most confident selves"
+    ],
+    "pricing": {
+      "minimum": "Bridal Makeup $165 · Bridal Party & Event Glam $95/person",
+      "average": "Bridal at $165, all party members and event clients at $95 per person — straightforward flat pricing",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "Flat, transparent pricing: $165 for the bride, $95 per person for bridal party, junior bridal party, and event glam. Accessible rates without sacrificing professional quality."
+    },
+    "culturalScore": 4,
+    "culturalBadges": [
+      "Latin American",
+      "Multicultural",
+      "All Celebrations",
+      "LGBTQ+ Welcoming",
+      "Inclusive"
+    ],
+    "culturalNotes": "Gisselle is first-generation Peruvian American and brings genuine cross-cultural understanding to her work. Her experience with a diverse DMV clientele and her personal background make her a strong choice for multicultural and Latin American weddings.",
+    "responseTime": "Contact via email or phone to check availability and book your date",
+    "bookingLead": "Book early for peak spring and fall wedding dates — trial appointments should be scheduled several months before the wedding",
+    "travelFee": "Serves DC, Maryland, and Virginia — contact to confirm travel availability and any fees for your venue location",
+    "teamSize": "Owner-operated — Gisselle personally provides every service",
+    "consult": "Contact to book your bridal trial and discuss your vision, color palette, and wedding day timeline",
+    "plannerRating": 4.7,
+    "plannerNotes": "Beyoutify by Gisselle Ruby is the kind of vendor origin story that matters — a first-generation college graduate who turned a classroom project into a certified makeup business built on genuine passion and formal training. Her soft glam specialty is exactly what the majority of NoVA brides want, and her pricing is among the most accessible in the directory: $165 for the bride, $95 for the party, no surprises. The Latina-owned angle is meaningful for a region as culturally diverse as Northern Virginia and DC. New as of 2023 and already building a strong client base. One to watch.",
+    "plannerTags": [
+      "Soft Glam Specialist",
+      "Certified Makeup Artist",
+      "Latina-Owned Business",
+      "Accessible Bridal Pricing",
+      "First-Gen Entrepreneur",
+      "DMV Coverage"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact early for peak season dates",
+    "blogTag": "beyoutify-gisselle-ruby-bridal-makeup",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "organic",
+        "boho",
+        "classic"
+      ],
+      "cultural": [
+        "latin"
+      ],
+      "budget": [
+        "moderate"
+      ],
+      "priority": [
+        "vendors",
+        "photos"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 36,
+    "name": "Stars in the Sky Events",
+    "category": "Wedding Planning",
+    "location": "DMV · Virginia · North Carolina",
+    "image": "https://images.unsplash.com/photo-1478146059778-26028b07395a?w=900&q=80",
+    "contact": {
+      "phone": "+1 757-776-3021",
+      "email": "starsintheskyevents@gmail.com",
+      "website": "https://www.starsintheskyevents.com",
+      "instagram": "@starsintheskyevents",
+      "address": "Serving the DMV, Virginia, and North Carolina"
+    },
+    "hours": "By appointment — contact via email or phone",
+    "established": "Founded January 2024 — intimate wedding planning, design, and décor for up to 75 guests",
+    "services": [
+      "Intimate wedding planning and design — full-service packages for weddings up to 75 guests starting at $6,000",
+      "Event design and décor — styling tablescapes, florals, and full event environments with a design-forward eye",
+      "Day-of coordination — ensuring the event flows intentionally and stress-free from start to finish",
+      "Baby showers and bridal showers — full planning and design for family celebrations",
+      "Birthday parties and milestone events — the origin of the business and an ongoing specialty",
+      "Logistics and organizational management — background in logistics applied to every event detail"
+    ],
+    "specialties": [
+      "Intimate wedding specialist — packages built specifically for weddings up to 75 guests where every detail gets real attention",
+      "Design-first approach — every tablescape, flow, and décor element is intentional and visually cohesive, not just functional",
+      "Big sister energy — the eldest daughter in a large family, listening and problem-solving come naturally; clients feel genuinely heard",
+      "Origin story rooted in personal experience — founded after being left out of her daughter's birthday photos, so no client ever misses their own celebration",
+      "Logistics and management background — organizational skills that go beyond aesthetics to ensure the day actually runs smoothly",
+      "Full-service from concept to execution — handles planning, design, and décor so couples work with one trusted point of contact"
+    ],
+    "pricing": {
+      "minimum": "Intimate wedding design packages starting at $6,000 for up to 75 guests",
+      "average": "Starting at $6,000 for intimate weddings up to 75 — contact for full package details and customization",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "Intimate wedding packages starting at $6,000 cover up to 75 guests. Contact to discuss what is included and how packages can be customized for your vision and guest count."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "Multicultural",
+      "LGBTQ+ Welcoming",
+      "Inclusive"
+    ],
+    "culturalNotes": "Stars in the Sky Events brings genuine heart to every celebration regardless of background or tradition — contact to discuss experience with specific cultural elements or ceremony formats.",
+    "responseTime": "Contact via email or phone — personally responsive as an owner-operated business",
+    "bookingLead": "Founded in 2024 — book early for peak spring and fall dates as calendar fills; intimate wedding packages require advance planning for design and logistics",
+    "travelFee": "Serves the DMV, Virginia, and North Carolina — contact to confirm travel availability and fees for your location",
+    "teamSize": "Owner-operated — contact to confirm team support for your event size",
+    "consult": "Contact to discuss your vision, guest count, and date — and to get a feel for that big sister energy in person",
+    "plannerRating": 4.6,
+    "plannerNotes": "Stars in the Sky Events was born from a moment every parent dreads — being so busy running the show that you miss being in the photos. That personal origin gives this business a clarity of purpose that comes through in how they approach every event. The intimate wedding niche — up to 75 guests starting at $6,000 — is a smart and underserved corner of the NoVA market. Couples who want a thoughtfully designed small wedding often feel lost between DIY and full-service luxury planners; Stars in the Sky sits exactly in that gap. The 'big sister energy' positioning is genuine and will resonate with clients who want someone who listens first and plans second. New as of 2024 and worth watching.",
+    "plannerTags": [
+      "Intimate Wedding Specialist",
+      "Up to 75 Guests",
+      "Design & Décor Included",
+      "Big Sister Energy",
+      "Logistics Background",
+      "Full-Service Planning"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact early for peak season intimate wedding dates",
+    "blogTag": "stars-in-the-sky-events-intimate-weddings",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "organic",
+        "boho",
+        "modern",
+        "classic"
+      ],
+      "cultural": [],
+      "budget": [
+        "upscale"
+      ],
+      "priority": [
+        "design",
+        "vendors",
+        "privacy"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 37,
+    "name": "Capel & Co. Productions LLC",
+    "category": "Wedding Planning",
+    "location": "DMV Area & Surrounding",
+    "image": "https://images.unsplash.com/photo-1465495976277-4387d4b0b4c6?w=900&q=80",
+    "contact": {
+      "phone": "+1 540-315-7554",
+      "email": "patriciaecapel@gmail.com",
+      "website": "https://www.capelandcoproductions.com",
+      "instagram": "@capelandcoproductions",
+      "address": "Serving the DMV area and surrounding regions"
+    },
+    "hours": "By appointment — contact via email or phone",
+    "established": "Founded October 2019 — evolved from theatrical and performing arts production into full-service wedding planning and creative production",
+    "services": [
+      "Wedding planning and coordination — full-service and partial planning tailored to your vision",
+      "Wedding photography and videography — creative, story-driven visual coverage",
+      "Wedding content creation — social media and behind-the-scenes coverage for real-time sharing",
+      "Event planning — corporate and special event production drawing on theatrical production roots",
+      "Hourly services at $200/hr — flexible engagement for couples who need targeted support",
+      "Discounted packages for 8+ hours booked — full-day and multi-service packages available"
+    ],
+    "specialties": [
+      "Arts and theatrical production background — brings a genuine storytelling sensibility to wedding planning that most coordinators don't have",
+      "Multi-service under one roof — planning, coordination, photography, videography, and content creation all available through one team",
+      "Creative concept to execution — the full arc from vision to finished product is handled with the same creative eye throughout",
+      "Energy and innovation as core values — described by clients as fun, personalized, and collaborative rather than corporate or formulaic",
+      "Flexible hourly model — $200/hr entry point makes professional planning support accessible without requiring a full-service commitment",
+      "Theatrical arts foundation — meticulous staging, timing, and storytelling skills translate directly into beautiful wedding production"
+    ],
+    "pricing": {
+      "minimum": "$200 per hour for all services",
+      "average": "Discounted package pricing available for bookings of 8 hours or more — contact for package options",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "$200/hr for any service (planning, photography, videography, content creation). Discounted packages available for 8+ hour bookings — ideal for full wedding day coverage or multi-service bundles."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "Multicultural",
+      "LGBTQ+ Welcoming",
+      "Inclusive"
+    ],
+    "culturalNotes": "Capel & Co.'s storytelling-first approach is designed to reflect each couple's unique personality and love story — adaptable to any cultural background, tradition, or ceremony style.",
+    "responseTime": "Contact via email or phone for availability and to discuss your vision",
+    "bookingLead": "Founded in 2019 with an active client base — book early for peak spring and fall dates, especially for multi-service packages",
+    "travelFee": "Serves the DMV area and surrounding regions — contact to confirm travel availability and fees for your specific location",
+    "teamSize": "Team-based production company — contact to confirm crew for your specific service combination",
+    "consult": "Contact to discuss your vision, confirm service combination, and get a package quote for your wedding date",
+    "plannerRating": 4.6,
+    "plannerNotes": "Capel & Co. Productions brings something genuinely different to the NoVA wedding market — a production company background that treats a wedding the way a theater director treats a show: every moment is intentional, staged, and told as part of a larger story. The multi-service model is a practical advantage for couples who want consistency across planning, photography, and content creation without coordinating between multiple vendors. The $200/hr flexible pricing is an accessible entry point, and the 8-hour package discount is smart for couples who want full-day coverage. The evolution from theatrical arts to weddings isn't a pivot — it's a natural extension of the same core skills.",
+    "plannerTags": [
+      "Theatrical Arts Background",
+      "Multi-Service: Plan + Photo + Video + Content",
+      "Storytelling-First Approach",
+      "Hourly Flexible Pricing",
+      "Creative & Collaborative",
+      "Full Production Capability"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact for availability and multi-service package options",
+    "blogTag": "capel-co-productions-wedding-planning",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "modern",
+        "grand",
+        "boho",
+        "organic"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale"
+      ],
+      "priority": [
+        "photos",
+        "vendors",
+        "design"
+      ]
+    },
+    "portfolio": []
+  },
+  {
+    "id": 38,
+    "name": "J Smith Productions LLC",
+    "category": "DJ & Entertainment",
+    "location": "DMV · Available for Travel",
+    "image": "https://images.unsplash.com/photo-1415201364774-f6f0bb35f28f?w=900&q=80",
+    "contact": {
+      "phone": "+1 312-720-6402",
+      "email": "bands.jsmithpro@gmail.com",
+      "website": "https://www.jsmithpro.com",
+      "instagram": "@jsmithpro",
+      "address": "Serving the DMV — available for travel"
+    },
+    "hours": "By appointment — contact via email or phone",
+    "established": "Founded October 2020 — live saxophone, live bands, and signature Sax + DJ experiences for weddings",
+    "services": [
+      "Solo saxophone — smooth live sax for cocktail hours, ceremonies, and ambient entertainment from $600/event",
+      "Live bands — full band experience starting at $2,000/event",
+      "Sax + DJ combo — the signature J Smith experience; live saxophone layered over DJ sets for cocktail hour and reception from $2,500/event",
+      "Custom event consultation — works closely with couples to understand their vision, song requests, and overall vibe",
+      "Travel available — serves the DMV and beyond for destination and out-of-area weddings"
+    ],
+    "specialties": [
+      "Signature Sax + DJ combo — the only experience of its kind in the NoVA market; DJ keeps the dance floor packed while live saxophone elevates cocktail hour and jumps in live over reception songs",
+      "Per-event pricing model — not hourly; couples know exactly what they're paying regardless of how the night flows",
+      "Founder Justin Smith performs at every event — years of wedding experience means he knows exactly what makes a moment land",
+      "Three tiers of service — solo sax for intimate ceremonies, full live bands for grand receptions, and the hybrid Sax + DJ for couples who want both elegance and energy",
+      "Moment cultivator — Justin's approach is less about playlists and more about reading the room and creating emotional peaks throughout the evening",
+      "Elegant to high-energy range — equally at home during a romantic ceremony as a packed dance floor reception"
+    ],
+    "pricing": {
+      "minimum": "Solo Saxophone from $600/event · Live Bands from $2,000/event · Sax + DJ Combo from $2,500/event",
+      "average": "Most wedding couples book the Sax + DJ combo at $2,500+ — full-day coverage from cocktail hour through reception",
+      "deposit": "Contact to confirm",
+      "paymentPlans": "Contact to discuss",
+      "note": "All pricing is per event — not hourly. Solo sax from $600, live bands from $2,000, Sax + DJ combo from $2,500. Final pricing based on event scope and any travel requirements."
+    },
+    "culturalScore": 3,
+    "culturalBadges": [
+      "All Celebrations",
+      "Multicultural",
+      "LGBTQ+ Welcoming",
+      "Inclusive"
+    ],
+    "culturalNotes": "J Smith Productions works closely with each couple to incorporate their song choices, cultural traditions, and specific vision — the live saxophone adapts to jazz, R&B, classical, and contemporary styles.",
+    "responseTime": "Contact via email or phone — personally responsive as founder-operated",
+    "bookingLead": "Book early for peak spring and fall dates — the Sax + DJ combo is a unique offering with limited availability",
+    "travelFee": "Based in the DMV — available for travel beyond the immediate area; contact to confirm travel fees for your location",
+    "teamSize": "Justin Smith performs personally — band size varies by package; contact to confirm crew for your event",
+    "consult": "Contact to discuss your vision, timeline, song requests, and which service tier fits your wedding day",
+    "plannerRating": 4.8,
+    "plannerNotes": "J Smith Productions is the answer to every couple who says they want something more than a DJ but aren't sure a full band is right for them. The Sax + DJ combo is genuinely the best of both worlds — the DJ handles the technical side and keeps energy consistent, while Justin's live saxophone adds soul and spontaneity that no playlist can replicate. The cocktail hour saxophone moment alone is something guests talk about for years. Per-event pricing removes the clock-watching anxiety that comes with hourly billing. Justin's description of himself as someone who 'cultivates moments' is accurate — this is someone who understands the emotional architecture of a wedding reception and knows how to build it in real time.",
+    "plannerTags": [
+      "Sax + DJ Signature Combo",
+      "Live Saxophone",
+      "Full Live Bands Available",
+      "Per-Event Pricing",
+      "Moment Cultivator",
+      "Cocktail Hour Specialist"
+    ],
+    "availability": "Now Booking 2025 & 2026 — contact early for peak season dates and travel availability",
+    "blogTag": "j-smith-productions-sax-dj-weddings",
+    "quizTags": {
+      "style": [
+        "romantic",
+        "grand",
+        "modern",
+        "classic",
+        "boho"
+      ],
+      "cultural": [],
+      "budget": [
+        "moderate",
+        "upscale",
+        "luxury"
+      ],
+      "priority": [
+        "vendors",
+        "design",
+        "photos"
+      ]
+    },
+    "portfolio": []
+  }
+]
